@@ -5112,7 +5112,11 @@ ul li img{
 }
 
 .me{
-  width: 220px;
+  min-width: 100%;
+}
+
+.me-large{
+  width:220px;
 }
 
 #logo-image{
