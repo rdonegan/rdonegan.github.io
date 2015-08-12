@@ -2755,7 +2755,7 @@ a {
   text-decoration: none;
   line-height: inherit; }
   a:hover, a:focus {
-    color: #258faf; }
+    color: #005965; }
   a img {
     border: none; }
 
@@ -5077,7 +5077,8 @@ h2{
 /* Wrappers */
 .intro{
   width:100%;
-  background-color: #00d2ff;
+  background-color: #00BDE5;
+ 
 }
 
 .intro_content{
@@ -5092,7 +5093,6 @@ h2{
 
 .projects{
   width:100%;
-  background-color: #FF7D40;
 }
 
 .projodd{
@@ -5183,10 +5183,6 @@ ul li img{
 
 
 
-
-
-
-
 .resume_container{
   width: 100%;
   background-color: #11b547;
@@ -5194,17 +5190,17 @@ ul li img{
 
 .contact_container{
   width:100%;
-  background-color: #580ce8;
+  background-color: white;
 }
 
 .contact-padding ul li{
-  background-color: #7A7DFF;
+  background-color: #00BDE5;
   /*-webkit-box-shadow: 0px 0 5px 0 rgba(0,0,0,0.4);*/
   margin-top: 10px;
   margin-bottom: 10px;
   border-style: solid;
   border-width: thick;
-  border-color: #580ce8;
+  border-color: white;
   transition: all 0.3s ease-in-out 0.1s;
 
 
