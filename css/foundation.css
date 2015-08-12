@@ -1751,7 +1751,8 @@ meta.foundation-mq-topbar {
   left: 0;
   position: fixed;
   top: 0;
-  z-index: 99; }
+  z-index: 99; 
+  }
   .fixed.expanded:not(.top-bar) {
     overflow-y: auto;
     height: auto;
@@ -5213,6 +5214,7 @@ ul li img{
 .contact-padding ul li:hover{
   border-width: thin;
 }
+
 
 
 
