@@ -58,6 +58,7 @@ $(document).ready(function(){
     
     var parent = $(this).parent().parent().parent();
     parent.slideToggle(500);
+    // parent.show("slide", {direction:"down"},500);
     parent.prev().find(".dots").toggleClass('dots_active');
     
   });
