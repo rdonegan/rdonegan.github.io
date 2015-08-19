@@ -28,11 +28,15 @@ $(document).scroll(function() {
 
 $(document).ready(function(){
 
-	$('.image-link').magnificPopup({type:'image'});
+	$('.image-link').magnificPopup({
+		type:'image',
+
+
+	});
 
 	$('.popup-link').magnificPopup({ 
-	  type: 'image'
-		// other options
+	  	type: 'image',
+		closeOnContentClick: true
 	});
 
 
