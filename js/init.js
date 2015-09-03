@@ -28,6 +28,18 @@ $(document).scroll(function() {
 
 $(document).ready(function(){
 
+	$('.image-link').magnificPopup({
+		type:'image',
+
+
+	});
+
+	$('.popup-link').magnificPopup({ 
+	  	type: 'image',
+		closeOnContentClick: true
+	});
+
+
 	$(".proj_header").css('cursor', 'pointer');
 	$(".proj_header").hover(function(){
 		$(this).find(".dots").addClass('dots_hover');
