@@ -69,6 +69,11 @@ $(document).ready(function(){
   $(".collapse_listen").click(function(){
     
     var parent = $(this).parent().parent().parent();
+    var oderp = parent.parent();
+    $('html, body').animate({
+        scrollTop: $(oderp).offset().top
+    }, 500);
+    //console.log(parent);
     parent.slideToggle(500);
     // parent.show("slide", {direction:"down"},500);
     parent.prev().find(".dots").toggleClass('dots_active');
