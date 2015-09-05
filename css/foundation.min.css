@@ -11,7 +11,7 @@ html, body{
 }
 
 p{
-  font-size: 1.1em;
+  font-size: 1.0em;
 }
 
 a{
@@ -31,8 +31,7 @@ h1{
 
 h2{
   color:#484848;
-  font-size: 2.2em;
-  padding-bottom: 20px;
+  font-size: 2.0em;
 }
 
 .sub-title{
@@ -115,7 +114,7 @@ ul li img{
 }
 
 .proj_intro{
-  font-size: 1.4em;
+  font-size: 1.1em;
   display: inline;
 }
 
@@ -141,7 +140,7 @@ ul li img{
 .dots_hover{
   
   line-height: .9em;
-  font-size:2em; 
+  font-size:1.2em; 
   letter-spacing: 6px;
   color:#FF7D40;
   transition: all 0.3s ease-in-out 0.1s;
