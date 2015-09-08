@@ -43,10 +43,12 @@ $(document).ready(function(){
 	$(".proj_header").css('cursor', 'pointer');
 	$(".proj_header").hover(function(){
 		$(this).find(".dots").addClass('dots_hover');
+		$(this).find(".proj_image").addClass("hovered");
 
 	},
 		function(){
 			$(this).find(".dots").removeClass('dots_hover');
+			$(this).find(".proj_image").removeClass("hovered");
 		});
 	
 	$(".proj_header").click(function(){
