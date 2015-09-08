@@ -189,4 +189,13 @@ ul li img{
 }
 
 
+.description p{
+	padding-left: 4%;
+  	padding-right: 4%;
+}
+
+.description ul, .description ol {
+	padding-left: 5%;
+}
+
 
