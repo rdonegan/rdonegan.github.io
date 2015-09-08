@@ -11,7 +11,7 @@ html, body{
 }
 
 p{
-  font-size: 1.0em;
+  font-size:  1.0em;
 }
 
 a{
@@ -38,6 +38,7 @@ h2{
   color: #9f9f9f;
   display:inline;
 }
+
 
 
 
@@ -181,4 +182,11 @@ ul li img{
 .contact-padding ul li:hover{
   border-width: thin;
 }
+
+.desc_header{
+	text-align:center;
+	padding-bottom: 1em;
+}
+
+
 
