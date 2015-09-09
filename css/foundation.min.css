@@ -12,7 +12,11 @@ html, body{
 
 p{
   font-size:  1.0em;
-  font-weight: lighter;
+  
+}
+
+#portfolioSection p{
+	font-weight: lighter;
 }
 
 a{
