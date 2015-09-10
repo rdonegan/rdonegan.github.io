@@ -57,7 +57,10 @@ h1 span{
 	background-color: #00BDE5;
 }
 
-
+.about{
+	line-height: 2em;
+	font-weight: lighter;
+}
 
 /******************
 IMAGE ANIMATION
