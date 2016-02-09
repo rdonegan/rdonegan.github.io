@@ -24,8 +24,6 @@ $(document).scroll(function() {
 });
 
 
-
-
 $(document).ready(function(){
 
 	$('.image-link').magnificPopup({
@@ -108,53 +106,5 @@ $(document).ready(function(){
 	   return false;
 
 	});
-
-	// $(function(){
-	// 	var sections= $("section");
-	// 	var nav_links = $('.top-bar-section a');
-
-	// 	sections.waypoint({
-	// 		handler: function(direction){
-	// 			var active_section;
- //      			active_section = $(this);
- //      			var activeID = active_section.attr('id');
-
- //      			if (direction === "up"){
- //      				// console.log("uppp");
- //      			 	activeID = active_section.prev().attr('id')
- //      			}
-      			
-
- //      			// console.log(activeID);
-
- //      			nav_links.removeClass('active_color');
-
- //      			var anchors = $.map(nav_links, function(el){
-	// 			  return $(el).get();
-	// 			});
-      			
-      			
-
-
- //      			if(activeID=="portfolioSection"){
-      				
- //      				$(anchors[0]).addClass('active_color');
- //      			}
- //      			else if(activeID=="contactSection"){
-      				
- //      				$(anchors[1]).addClass('active_color');
- //      			}
- //      			else{
- //      				$(anchors[1]).removeClass('active_color');
- //      				$(anchors[0]).removeClass('active_color');
- //      			}
-      			
-
-      			
-	// 		},
-
-	// 		offset: '35%'
-	// 	});
-	// });
 
 });
