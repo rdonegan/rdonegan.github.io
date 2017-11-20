@@ -31,6 +31,16 @@ a{
 
 }
 
+.welcome a:visited{
+	color: #FCE723;
+}
+
+.welcome a:hover{
+	color:#FCE723;
+}
+
+
+
 h1{
   color:white; 
 }
