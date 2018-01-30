@@ -6,7 +6,7 @@ $(document).scroll(function() {
         // $('#logo-image').attr('src', 'img/Acme_Monogram_Colour.png')
         $(".important-nav").addClass("padding-on-my-header");
         
-        $(".name img").css("content","url('images/logo.svg')");
+        $(".name img").css("content","url('images/logo.png')");
         $(".name img").css("max-width","50px");
         $(".name img").css("margin","-.1em 0 0 0");
 
@@ -15,7 +15,7 @@ $(document).scroll(function() {
 
         $(".important-nav").removeClass("padding-on-my-header");
         // $(".name img").removeClass("image-small");
-        $(".name img").css("content","url('images/logo.svg')");
+        $(".name img").css("content","url('images/logo.png')");
         $(".name img").css("max-width","77px");
         $(".name img").css("margin","-1em 0 0 0");
 
