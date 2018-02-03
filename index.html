@@ -3,30 +3,12 @@
 <html lang="en">
 <head>
     <!-- jQuery from CDN -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-      <script src="js/bootstrap.js"></script>
-<script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src= "js/jquery.simple-text-rotator.min.js"></script>
 
-$(document).ready(function()
-    //Paste your Client Access Token in the line below within quotes - you can build your API from https://dribbble.com/account/applications 
-    $.jribbble.setToken('31ab7fc9c25cbe4122efa08d82d5ee0998685a63cd93f0fd763045abb4bbd67d');
-    $.jribbble.users('gsvineeth').shots({per_page: 36}).then(function(shots) {
-    var html = [];
-  
-    shots.forEach(function(shot) {
-        html.push('<div class="col-sm-6 col-md-4 col-lg-4"> <div class="grid-list">');
-        html.push('<a href="' + shot.html_url + '" target="_blank">');
-        html.push('<img class="img-responsive" src="' + shot.images.normal + '" alt="' + shot.title + '"><\/a>');
-        html.push('<div class="overlay"><a target="_blank"  href="' + shot.html_url + '">');
-        html.push('<h2>' + shot.title + '<\/h2>');
-        html.push('<\/a> <\/div><\/div><\/div>');
-    });
-  
-    $('#shots').html(html.join(''));
-    });
-});
- 
-        </script>
+      
+
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1" name="viewport">
@@ -36,8 +18,10 @@ $(document).ready(function()
     <!-- Bootstrap + Font Awesome + Main CSS -->
     <link href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,400italic,300italic' rel='stylesheet' type='text/css'>
     <!-- customize this file if needed -->
     <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/simpletextrotator.css"/>
     
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -84,7 +68,7 @@ $(document).ready(function()
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12">
-                        <h1 class="intro"><span>Hello,</span> <span>I’m</span> Ryan, <span> a designer </span></h1>
+                        <h1 class="intro"><span>Hello,</span> <span>I’m</span> Ryan, a <span class="rotate">designer, researcher, techie</span></h1>
                     </div>
                 </div>
             </header>
