@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="118px" height="118px" viewBox="0 0 118 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+<svg width="154px" height="154px" viewBox="0 0 154 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Artboard" fill-rule="nonzero">
-            <g id="apt-logo" transform="translate(0.000000, 34.000000)">
+            <g id="apt-logo" transform="translate(18.000000, 52.000000)">
                 <path d="M11.83,24.69 C11.83,24.56 14.53,14.69 15.46,13.12 C19,6.99 21.76,6.63 25.21,5.12 C31.14,2.62 35.13,1.29 36.06,1 L15.67,1 C13.9748427,0.983996146 12.2815879,1.11785028 10.61,1.4 C8.54015583,1.76918501 6.566906,2.55508279 4.81,3.71 C2.99410613,4.99059841 1.60141422,6.78368924 0.81,8.86 C0.423041336,9.91646027 0.200452107,11.0260339 0.15,12.15 C0.115100155,12.3581533 0.0983704498,12.5689476 0.1,12.78 L0.1,39.91 L5.4,39.91 C6.76876741,39.5493355 7.84499598,38.4921215 8.23,37.13 C8.83,35.03 9.52,33.32 10.29,30.55 L11.83,24.69 Z" id="Shape" fill="#F6921E"></path>
                 <path d="M36,8.44 L36,6.03 C34.84,6.47 34.17,6.55 32.9,7.03 C27.48,9.14 20.9,10.32 18.9,16.79 C18.69,17.25 18.41,18.49 18.06,19.73 C17.44,21.93 16.64,24.98 15.82,28.03 C15.05,30.9 15.05,30.92 14.13,34.43 C13.21,37.94 12.5,39.57 11.37,40 L36,40 L36,8.44 Z" id="Shape" fill="#262524"></path>
                 <path d="M0,44.08 L0,50.17 L21.58,50.17 C23.2751791,50.1866329 24.9684894,50.0527744 26.64,49.77 L26.69,49.77 C28.38559,49.4255512 29.9572225,48.6310996 31.24,47.47 C32.518244,46.5737595 33.5974797,45.4230287 34.41,44.09 L0,44.08 Z" id="Shape" fill="#CA2026"></path>
