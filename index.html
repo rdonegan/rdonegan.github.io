@@ -5,6 +5,7 @@
     <!-- jQuery from CDN -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/jquery.simple-text-rotator.min.js"></script>
 
       
 
@@ -20,6 +21,15 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,400italic,300italic' rel='stylesheet' type='text/css'>
     <!-- customize this file if needed -->
     <link href="css/main.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/simpletextrotator.css" />
+    <script>
+      $(document).ready(function(){
+            $(".rotate").textrotator({
+                animation: "flip",
+                speed: 3000
+            })
+        });
+    </script>
     
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -66,7 +76,7 @@
 
                 <div class="row">
                     <div class="col-md-12 col-lg-12">
-                        <h1 class="intro"><span>Hello,</span> <span>I’m</span> Ryan<span>, designer &amp; researcher</span></h1>
+                        <h1 class="intro"><span>Hello,</span> <span>I’m</span> Ryan<span>, a</span> <span class="rotate"> designer, researcher, strategist</span></h1>
                     </div>
                 </div>
             </header>
