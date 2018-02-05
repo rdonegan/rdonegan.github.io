@@ -57,6 +57,12 @@ a {
     position: absolute;
 }
 
+.portfolio-content{
+    top:2em;
+    left:2em;
+    right:2em;
+}
+
 /* Navigation */
 .navbar-header{
 margin: -15px;
