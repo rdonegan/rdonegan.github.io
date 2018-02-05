@@ -45,6 +45,18 @@ a {
     display: inline;
 }
 
+.proj-image{
+    position:relative;
+}
+
+.title-caption{
+    top:2em;
+    left:2em;
+    color:white;
+    
+    position: absolute;
+}
+
 /* Navigation */
 .navbar-header{
 margin: -15px;
