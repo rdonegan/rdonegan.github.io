@@ -33,6 +33,11 @@ p {
     line-height: 1.6em;
 }
 
+.carouselCenter{
+    float: none;
+    margin: 0 auto;
+}
+
 a {
     cursor:pointer;
     text-decoration:none!important;
