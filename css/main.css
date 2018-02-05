@@ -21,9 +21,10 @@ body {
     background:#fff
 }
 
-h1,h2,h3,h4,h5,h6,p {
+h1,h2,h3,h4,h5,h6,p, li {
     margin:0 0 1em;
-    padding:0
+    padding:0;
+    color: #404040;
 }
 
 a {
@@ -57,11 +58,14 @@ a {
     position: absolute;
 }
 
-.portfolio-content{
-    top:2em;
-    left:2em;
-    right:2em;
+div > h3,p{
+    margin:2em 1em 2em 1em;
+
+    /*margin-bottom:2em;*/
 }
+
+
+
 
 /* Navigation */
 .navbar-header{
