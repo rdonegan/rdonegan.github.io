@@ -142,20 +142,37 @@ display: inline-block}
 
 /* Intro */
 
-.col-centered{
+/*.col-centered{
     float: none;
     margin: 0 auto;
 }
 .intro {
-    margin:0 0 1.5em;
-    font-size:1.8em;
+    padding-top:14em;
     line-height:1.6em;
     
+}*/
+
+.about-intro h1{
+    font-size: 2em;
+    line-height: 1.3em;
 }
 
-.intro span {
+.about-intro span {
     font-weight:100
 }
+
+.about-intro{
+    float: none;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 10em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*.intro h1{
+    font-size: 1.2em;
+}*/
 
 /* Grid List  */
 .grid-list-wrapper {
@@ -382,7 +399,9 @@ header {
 }
 
 .navbar {
-    padding:3em 50px 1em
+    /*padding:0em 30px 1em*/
+    padding-top: .5em;
+    /*padding-bottom: .2em;*/
 }
 
 .intro {
