@@ -52,6 +52,16 @@ a {
 }
 
 /*Portfolio fonts*/
+
+.portfolio-piece h3{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.portfolio-piece p{
+    margin-left: 0;
+}
+
 .proj-intro{
     font-size: 1.1em;
     display: inline;
@@ -59,6 +69,7 @@ a {
 
 .proj-image{
     position:relative;
+    padding-bottom: 8em;
 }
 
 .title-caption{
@@ -67,6 +78,11 @@ a {
     color:white;
     
     position: absolute;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.section-title{
+    font-family: 'Montserrat', sans-serif;
 }
 
 div > h3,p{
@@ -75,6 +91,14 @@ div > h3,p{
     /*margin-bottom:2em;*/
 }
 
+.portfolio-content{
+    float: none;
+    /*text-align: center;*/
+    /*margin-top: 2em;
+    margin-bottom: 10em;*/
+    margin-right: auto;
+    margin-left: auto;
+}
 
 
 
