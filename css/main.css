@@ -57,6 +57,7 @@ a {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     color: #585858;
+    text-transform: uppercase;
 }
 
 .portfolio-piece p{
