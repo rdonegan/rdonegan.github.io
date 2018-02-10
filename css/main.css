@@ -62,6 +62,10 @@ a {
     text-transform: uppercase;
 }
 
+.single-image{
+    margin: 1em 0em;
+}
+
 .portfolio-piece p{
     margin-left: 0;
 }
