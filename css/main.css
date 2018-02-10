@@ -53,30 +53,34 @@ a {
 
 /*Portfolio fonts*/
 
-.portfolio-piece h3{
+.portfolio-piece h3, h4{
     font-family: 'Montserrat', sans-serif;
     margin: 0;
+    color: #585858;
 }
 
 .portfolio-piece p{
     margin-left: 0;
 }
 
-.proj-intro{
+.portfolio-piece h4{
+    font-size: .9em;
+}
+
+/*.proj-intro{
     font-size: 1.1em;
     display: inline;
-}
+}*/
 
 .proj-image{
     position:relative;
-    padding-bottom: 8em;
+    padding-bottom: 6em;
 }
 
 .title-caption{
     top:2em;
     left:2em;
     color:white;
-    
     position: absolute;
     font-family: 'Montserrat', sans-serif;
 }
@@ -91,13 +95,17 @@ div > h3,p{
     /*margin-bottom:2em;*/
 }
 
-.portfolio-content{
+.overview, .portfolio-content{
     float: none;
     /*text-align: center;*/
-    /*margin-top: 2em;
-    margin-bottom: 10em;*/
+    /*margin-top: 2em;*/
+    margin-bottom: 2em;
     margin-right: auto;
     margin-left: auto;
+}
+
+.title-text{
+    text-align: right;
 }
 
 
