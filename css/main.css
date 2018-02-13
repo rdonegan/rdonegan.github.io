@@ -345,9 +345,10 @@ header {
 }
     
     .navbar-header{
-margin: 0;
-padding:0;
-background: #fff;}
+        margin: 0;
+        padding:0;
+        background: #fff;
+}
 
 .intro {
     font-size:1.6em;
