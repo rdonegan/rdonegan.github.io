@@ -333,12 +333,13 @@ footer {
 @media only screen and (min-width: 768px) {
 .overlay{
 min-height: 90px;
+text-align: center;
 }
     
 header {
     background:#fff;
     margin:2em 15px;
-    padding:20px 30px
+    padding:20px 0px
 }
     
     .navbar-header{
