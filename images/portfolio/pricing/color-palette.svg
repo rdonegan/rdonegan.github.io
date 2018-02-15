@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="404px" viewBox="0 0 800 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Color palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="For-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Color-palette">
+            <rect id="Rectangle-2" fill="#B5B5B5" x="200" y="0" width="200" height="300"></rect>
+            <rect id="Rectangle" fill="#333333" x="0" y="0" width="200" height="300"></rect>
+            <rect id="Rectangle-Copy" fill="#084F9F" x="400" y="0" width="200" height="300"></rect>
+            <rect id="Rectangle-Copy-2" fill="#C54134" x="600" y="0" width="200" height="300"></rect>
+            <rect id="Rectangle-2-Copy-3" fill-opacity="0.200000003" fill="#000000" x="0" y="200" width="800" height="100"></rect>
+            <rect id="Rectangle-2-Copy-2" fill-opacity="0.200000003" fill="#FFFFFF" x="0" y="0" width="800" height="100"></rect>
+            <text id="A-sample-color-palet" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="104.608398" y="357">A sample color palette, later expanded to accommodate visualizations. </tspan>
+            </text>
+        </g>
+    </g>
+</svg>
