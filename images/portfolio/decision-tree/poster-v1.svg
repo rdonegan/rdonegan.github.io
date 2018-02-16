@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1041px" height="819px" viewBox="0 0 1041 819" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>decision-tree v2 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="322" height="206" rx="2"></rect>
+        <rect id="path-2" x="0" y="0" width="229" height="63" rx="2"></rect>
+        <rect id="path-3" x="0" y="0" width="229" height="63" rx="2"></rect>
+    </defs>
+    <g id="For-Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="decision-tree-v2-copy">
+            <path d="M270.498092,580.5 L532.5,580.5" id="Line-Copy-2" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M550.5,537.5 L550.5,633.5" id="Line-2-Copy-2" stroke="#979797" stroke-linecap="square"></path>
+            <rect id="Rectangle-2-Copy" fill="#CDCDCD" transform="translate(550.000000, 580.000000) rotate(45.000000) translate(-550.000000, -580.000000) " x="535" y="565" width="30" height="30" rx="1"></rect>
+            <path d="M270.498092,403.5 L532.5,403.5" id="Line" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M550.5,229.5 L550.5,278.510203" id="Line-2" stroke="#979797" stroke-linecap="square"></path>
+            <path d="M550.5,364.5 L550.5,492.5" id="Line-2-Copy" stroke="#979797" stroke-linecap="square"></path>
+            <g id="Group" transform="translate(478.000000, 272.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="219" height="86" rx="2"></rect>
+                <text id="Does-it-save-somethi" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" fill="#333333">
+                    <tspan x="32" y="48">Does it save </tspan>
+                    <tspan x="32" y="65">something?</tspan>
+                </text>
+            </g>
+            <g id="Group-Copy" transform="translate(390.000000, 23.000000)">
+                <g id="Rectangle">
+                    <use fill="#333333" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#333333" stroke-width="1" x="0.5" y="0.5" width="321" height="205" rx="2"></rect>
+                </g>
+            </g>
+            <g id="Group-Copy-2" transform="translate(46.000000, 370.000000)">
+                <g id="Rectangle">
+                    <use fill="#333333" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#333333" stroke-width="1" x="0.5" y="0.5" width="228" height="62" rx="2"></rect>
+                </g>
+            </g>
+            <g id="Group-Copy-6" transform="translate(46.000000, 549.000000)">
+                <g id="Rectangle">
+                    <use fill="#333333" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#333333" stroke-width="1" x="0.5" y="0.5" width="228" height="62" rx="2"></rect>
+                </g>
+            </g>
+            <text id="Should-a-tool-appear" font-family="Georgia-Bold, Georgia" font-size="40" font-weight="bold" fill="#FFFFFF">
+                <tspan x="414" y="94">Should a tool </tspan>
+                <tspan x="414" y="140">appear in the </tspan>
+                <tspan x="414" y="186">content grid?</tspan>
+            </text>
+            <text id="Not-on-the-grid" font-family="Georgia-Bold, Georgia" font-size="20" font-weight="bold" fill="#333333">
+                <tspan x="72" y="122">Not on the grid</tspan>
+            </text>
+            <text id="No,-it’s-a-discovery" font-family="Georgia-Bold, Georgia" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="65" y="399">No, it’s a discovery tool. It </tspan>
+                <tspan x="65" y="415">belongs in the nav.</tspan>
+            </text>
+            <text id="No.-Organize-under-t" font-family="Georgia-Bold, Georgia" font-size="14" font-weight="bold" fill="#FFFFFF">
+                <tspan x="65" y="578">No. Organize under the </tspan>
+                <tspan x="65" y="594">nav bar.</tspan>
+            </text>
+            <text id="On-the-grid" font-family="Georgia-Bold, Georgia" font-size="20" font-weight="bold" fill="#333333">
+                <tspan x="873" y="122">On the grid</tspan>
+            </text>
+            <rect id="Rectangle-2" fill="#CDCDCD" transform="translate(550.000000, 404.000000) rotate(45.000000) translate(-550.000000, -404.000000) " x="535" y="389" width="30" height="30" rx="1"></rect>
+            <g id="Group-Copy-3" transform="translate(432.000000, 475.000000)" fill="#FFFFFF">
+                <rect id="Rectangle" x="0" y="0" width="229" height="63" rx="2"></rect>
+            </g>
+            <text id="Is-it-something-that" font-family=".AppleSystemUIFont" font-size="14" font-weight="normal" fill="#333333">
+                <tspan x="454" y="504">Is it something that a user </tspan>
+                <tspan x="454" y="521">comes back to frequently?</tspan>
+            </text>
+            <text id="N" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#070707">
+                <tspan x="292" y="391">N</tspan>
+            </text>
+            <text id="Y" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#070707">
+                <tspan x="564" y="445">Y</tspan>
+            </text>
+            <text id="I-started-by-laying" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="176.548828" y="743">I started by laying out the questions vertically and using shapes to convey decision </tspan>
+                <tspan x="301.015137" y="767">points. It wasn’t beautiful, but it got the point across.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
