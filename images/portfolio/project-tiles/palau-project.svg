@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1906px" height="1906px" viewBox="0 0 1906 1906" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #F1F1F1;">
+<svg width="1906px" height="1906px" viewBox="0 0 1906 1906" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
+    <title>pricing</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="666" height="1040" rx="15"></rect>
-        <filter x="-4.5%" y="-2.9%" width="109.0%" height="105.8%" filterUnits="objectBoundingBox" id="filter-2">
+        <filter x="-3.8%" y="-2.2%" width="107.7%" height="104.9%" filterUnits="objectBoundingBox" id="filter-2">
             <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.120752862   0 0 0 0 0.33688786   0 0 0 0 0.504676871  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.120752862   0 0 0 0 0.33688786   0 0 0 0 0.504676871  0 0 0 0.446529665 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
         <rect id="path-3" x="0" y="0" width="532" height="830" rx="25"></rect>
-        <filter x="-5.6%" y="-3.6%" width="111.3%" height="107.2%" filterUnits="objectBoundingBox" id="filter-4">
+        <filter x="-4.8%" y="-2.7%" width="109.6%" height="106.1%" filterUnits="objectBoundingBox" id="filter-4">
             <feMorphology radius="3" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
-            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0.121568627   0 0 0 0 0.337254902   0 0 0 0 0.505882353  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.274101828   0 0 0 0 0.274101828   0 0 0 0 0.274101828  0 0 0 0.451568161 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
         </filter>
     </defs>
     <g id="tiles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard">
+        <g id="pricing">
             <rect id="Rectangle" fill="#3480BB" x="0" y="0" width="1906" height="1906"></rect>
             <g id="Group-2" transform="translate(280.000000, 433.000000)">
                 <g id="Group">
