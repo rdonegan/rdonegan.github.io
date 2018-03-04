@@ -108,6 +108,10 @@ a {
     margin-left: auto;
 }
 
+.page-intro{
+    text-align: center;
+}
+
 .title-text{
     text-align: right;
 }
