@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1126px" height="572px" viewBox="0 0 1126 572" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>testing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="447" height="352"></rect>
+        <rect id="path-2" x="52" y="161" width="83" height="18"></rect>
+        <rect id="path-3" x="159" y="161" width="136" height="18"></rect>
+        <rect id="path-4" x="319" y="161" width="35" height="18"></rect>
+        <rect id="path-5" x="362" y="161" width="35" height="18"></rect>
+        <rect id="path-6" x="0" y="0" width="447" height="352"></rect>
+        <rect id="path-7" x="36" y="13" width="113" height="20"></rect>
+        <rect id="path-8" x="299" y="13" width="113" height="20" rx="4"></rect>
+        <rect id="path-9" x="472" y="12" width="113" height="20" rx="4"></rect>
+        <rect id="path-10" x="472" y="12" width="113" height="123" rx="4"></rect>
+    </defs>
+    <g id="For-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="testing">
+            <text id="Dynamic-Constraints" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" fill="#333333">
+                <tspan x="160.330566" y="426">Dynamic Constraints</tspan>
+            </text>
+            <text id="Dynamical,-editable" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="91.2529297" y="476">Dynamical, editable constraints proved </tspan>
+                <tspan x="155.202148" y="500">critical to setting prices. </tspan>
+            </text>
+            <text id="The-UI-reflected-rea" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="599.303711" y="476">The UI reflected real flows in which </tspan>
+                <tspan x="596.882324" y="500">recommendations were iterated on </tspan>
+                <tspan x="702.904785" y="524">over time.</tspan>
+            </text>
+            <text id="Versioning" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" fill="#333333">
+                <tspan x="697.473145" y="426">Versioning</tspan>
+            </text>
+            <g id="Group-7" transform="translate(30.000000, 22.000000)">
+                <g id="Rectangle-Copy">
+                    <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#D2D2D2" stroke-width="1" x="0.5" y="0.5" width="446" height="351"></rect>
+                </g>
+                <g id="Group" transform="translate(93.000000, 29.000000)">
+                    <text id="Settings-Pick-the-Me" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal">
+                        <tspan x="3.136" y="10" fill="#000000">Settings</tspan>
+                        <tspan x="43.473" y="10" fill="#000000">     </tspan>
+                        <tspan x="58.763" y="10" fill="#000000">Pick the Menu</tspan>
+                        <tspan x="129.273" y="10" fill="#333333">      </tspan>
+                        <tspan x="147.621" y="10" fill="#000000">Constraints</tspan>
+                        <tspan x="204.051" y="10" fill="#000000">      </tspan>
+                        <tspan x="222.399" y="10" fill="#A8A8A8">Results</tspan>
+                        <tspan x="258.864" y="10" fill="#000000">  </tspan>
+                    </text>
+                    <g id="Group-5" transform="translate(47.365591, 4.142857)" stroke="#333333" stroke-linecap="square">
+                        <path d="M0.547359058,4.71428571 L5.78426544,2.8878261 L0.547359058,4.71428571 Z" id="Line-6"></path>
+                        <path d="M1.16210879,0.529052734 L5.8614098,2.75" id="Line-6"></path>
+                    </g>
+                    <g id="Group-5-Copy" transform="translate(133.896057, 4.142857)" stroke="#333333" stroke-linecap="square">
+                        <path d="M0.547359058,4.71428571 L5.78426544,2.8878261 L0.547359058,4.71428571 Z" id="Line-6"></path>
+                        <path d="M1.16210879,0.529052734 L5.8614098,2.75" id="Line-6"></path>
+                    </g>
+                    <g id="Group-5-Copy-2" transform="translate(209.637993, 4.142857)" stroke="#A8A8A8" stroke-linecap="square">
+                        <path d="M0.547359058,4.71428571 L5.78426544,2.8878261 L0.547359058,4.71428571 Z" id="Line-6"></path>
+                        <path d="M1.16210879,0.529052734 L5.8614098,2.75" id="Line-6"></path>
+                    </g>
+                </g>
+                <text id="CONSTRAINT" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="54" y="121">CONSTRAINT</tspan>
+                </text>
+                <text id="Constraint-X" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="89" y="89">Constraint X</tspan>
+                </text>
+                <text id="Constraint-Y" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="169" y="89">Constraint Y</tspan>
+                </text>
+                <text id="MENU-ITEM" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="163" y="121">MENU ITEM</tspan>
+                </text>
+                <text id="LOW" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="326.58" y="121">LOW</tspan>
+                </text>
+                <text id="HIGH" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#000000">
+                    <tspan x="368.38" y="121">HIGH</tspan>
+                </text>
+                <g id="Group-2" transform="translate(55.000000, 134.000000)" font-size="10" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="10">Constraint X </tspan>
+                    </text>
+                    <text id="Maple-waffle-with-st">
+                        <tspan x="108.064133" y="10">Maple waffle with strawberry </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="267.953872" y="10">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="311.98" y="10">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Rectangle-7-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="0.5" x="52.25" y="161.25" width="82.5" height="17.5"></rect>
+                </g>
+                <g id="Rectangle-7-Copy-2">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#979797" stroke-width="0.5" x="159.25" y="161.25" width="135.5" height="17.5"></rect>
+                </g>
+                <g id="Rectangle-7-Copy-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#979797" stroke-width="0.5" x="319.25" y="161.25" width="34.5" height="17.5"></rect>
+                </g>
+                <g id="Rectangle-7-Copy-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#979797" stroke-width="0.5" x="362.25" y="161.25" width="34.5" height="17.5"></rect>
+                </g>
+                <polygon id="Triangle-2" fill="#333333" points="124.5 172 122 167 127 167"></polygon>
+                <polygon id="Triangle-2" fill="#333333" points="284.5 172 282 167 287 167"></polygon>
+                <g id="Group-2-Copy" transform="translate(55.000000, 163.000000)" font-size="10" font-family="HelveticaNeue, Helvetica Neue" fill="#717172" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="10">Constraint X</tspan>
+                    </text>
+                    <text id="Select-a-menu-item">
+                        <tspan x="108.064133" y="10">Select a menu item</tspan>
+                    </text>
+                </g>
+                <path d="M50.5337423,126.5 L397.54672,126.5" id="Line" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M50.5337423,155.5 L397.54672,155.5" id="Line-Copy" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M46.5337423,184.5 L393.54672,184.5" id="Line-Copy-2" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <rect id="Rectangle-8" fill="#7A7A7A" x="331" y="74" width="68" height="21" rx="2"></rect>
+                <text id="Upload" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="346" y="89">Upload</tspan>
+                </text>
+                <rect id="Rectangle-5-Copy" fill="#A0A0A0" x="0" y="0" width="447" height="18"></rect>
+                <text id="All" font-family="HelveticaNeue, Helvetica Neue" font-size="11" font-weight="normal" text-decoration="underline" fill="#000000">
+                    <tspan x="51" y="89">All</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(501.000000, 22.000000)">
+                <g id="Rectangle-Copy">
+                    <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <rect stroke="#D2D2D2" stroke-width="1" x="0.5" y="0.5" width="446" height="351"></rect>
+                </g>
+                <g id="Group-4" transform="translate(35.000000, 62.000000)">
+                    <text id="540.98" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">540.98</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="10" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group-3" transform="translate(163.000000, 62.000000)">
+                    <text id="26.5" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">26.5</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="1" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group-2" transform="translate(268.000000, 62.000000)">
+                    <text id="0.14" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">0.14</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="0" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group" transform="translate(373.000000, 62.000000)">
+                    <text id="0.03" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">0.03</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="0" y="27" width="38" height="12"></rect>
+                </g>
+                <rect id="Rectangle-5-Copy" fill="#A0A0A0" x="0" y="0" width="447" height="18"></rect>
+                <rect id="Rectangle-5-Copy-2" fill="#A0A0A0" x="0" y="17" width="447" height="21"></rect>
+                <rect id="Rectangle-5" fill="#BBBBBB" x="37" y="123" width="33" height="112"></rect>
+                <rect id="Rectangle-5-Copy-3" fill="#BBBBBB" x="113" y="179" width="33" height="56"></rect>
+                <rect id="Rectangle-5-Copy-4" fill="#BBBBBB" x="150" y="154" width="33" height="81"></rect>
+                <rect id="Rectangle-5-Copy-10" fill="#BBBBBB" x="75" y="154" width="33" height="81"></rect>
+                <rect id="Rectangle-5-Copy-5" fill="#BBBBBB" x="188" y="179" width="33" height="56"></rect>
+                <rect id="Rectangle-5-Copy-6" fill="#BBBBBB" x="226" y="134" width="33" height="101"></rect>
+                <rect id="Rectangle-5-Copy-11" fill="#BBBBBB" x="264" y="134" width="33" height="101"></rect>
+                <rect id="Rectangle-5-Copy-7" fill="#BBBBBB" x="301" y="200" width="33" height="35"></rect>
+                <rect id="Rectangle-5-Copy-9" fill="#BBBBBB" x="339" y="200" width="33" height="35"></rect>
+                <rect id="Rectangle-5-Copy-8" fill="#BBBBBB" x="377" y="154" width="33" height="81"></rect>
+                <g id="Rectangle-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <rect stroke="#CDCDCD" stroke-width="1" x="36.5" y="13.5" width="112" height="19"></rect>
+                </g>
+                <g id="Rectangle-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#CDCDCD" stroke-width="1" x="299.5" y="13.5" width="112" height="19" rx="4"></rect>
+                </g>
+                <path d="M391.5,13.5 L391.5,31.6107703" id="Line-2" stroke="#CDCDCD" stroke-linecap="square"></path>
+                <g id="Rectangle-6-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#CDCDCD" stroke-width="1" x="472.5" y="12.5" width="112" height="19" rx="4"></rect>
+                </g>
+                <g id="Rectangle-6-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#CDCDCD" stroke-width="1" x="472.5" y="12.5" width="112" height="122" rx="4"></rect>
+                </g>
+                <path d="M564.5,12.5 L564.5,30.6107703" id="Line-2-Copy" stroke="#CDCDCD" stroke-linecap="square"></path>
+                <polygon id="Triangle-2-Copy" fill="#333333" transform="translate(573.000000, 22.000000) rotate(180.000000) translate(-573.000000, -22.000000) " points="573 19 576 25 570 25"></polygon>
+                <text id="Version-2-Copy" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="501" y="26">Version 2</tspan>
+                </text>
+                <text id="Save-as…" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="479" y="48">Save as…</tspan>
+                </text>
+                <text id="Version-1" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="479" y="91">Version 1</tspan>
+                </text>
+                <text id="Rename" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="479" y="66">Rename</tspan>
+                </text>
+                <text id="Version-3" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="479" y="109">Version 3</tspan>
+                </text>
+                <text id="View-all" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="479" y="127">View all</tspan>
+                </text>
+                <image id="Bitmap-Copy" x="479" y="15" width="14" height="14" xlink:href="data:image/png;base64,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"></image>
+                <path d="M584.5,31.5 L472.495536,31.5" id="Line-3" stroke="#CDCDCD" stroke-linecap="square"></path>
+                <path d="M584.5,74.5 L472.495536,74.5" id="Line-3-Copy" stroke="#CDCDCD" stroke-width="0.5" stroke-linecap="square"></path>
+                <polygon id="Triangle-2" fill="#333333" transform="translate(400.000000, 23.000000) rotate(180.000000) translate(-400.000000, -23.000000) " points="400 20 403 26 397 26"></polygon>
+                <text id="DMA:-Manhattan" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="41" y="27">DMA: Manhattan</tspan>
+                </text>
+                <text id="Version-2" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="328" y="27">Version 2</tspan>
+                </text>
+                <text id="ITEM" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="294">ITEM</tspan>
+                </text>
+                <text id="Sugar-waffle" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="319">Sugar waffle</tspan>
+                </text>
+                <text id="Nutella-waffle" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="343">Nutella waffle</tspan>
+                </text>
+                <text id="CURRENT" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="143.348" y="294">CURRENT</tspan>
+                </text>
+                <text id="$2.59" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="169.976" y="319">$2.59</tspan>
+                </text>
+                <text id="$3.99" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="169.976" y="343">$3.99</tspan>
+                </text>
+                <text id="RECOMMENDED" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="234.536" y="294">RECOMMENDED</tspan>
+                </text>
+                <text id="$2.61" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="298.976" y="319">$2.61</tspan>
+                </text>
+                <text id="$3.99" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="298.976" y="343">$3.99</tspan>
+                </text>
+                <text id="DELTA" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="349.092" y="294">DELTA</tspan>
+                </text>
+                <rect id="Rectangle-8" fill="#7A7A7A" x="307" y="252" width="95" height="21" rx="2"></rect>
+                <text id="Modify-prices" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="318" y="267">Modify prices</tspan>
+                </text>
+                <text id="0.02" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="360.648" y="319">0.02</tspan>
+                </text>
+                <text id="0.00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="360.648" y="343">0.00</tspan>
+                </text>
+                <polygon id="Triangle-2" fill="#333333" transform="translate(139.000000, 23.000000) rotate(180.000000) translate(-139.000000, -23.000000) " points="139 20 142 26 136 26"></polygon>
+                <path d="M49.5368098,304.5 L398.544115,304.5" id="Line" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M49.5368098,326.5 L398.544115,326.5" id="Line-Copy" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <image id="Bitmap" x="306" y="16" width="14" height="14" xlink:href="data:image/png;base64,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"></image>
+                <rect id="Rectangle-10" stroke="#0553AC" stroke-width="2" x="292" y="8" width="127" height="33"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

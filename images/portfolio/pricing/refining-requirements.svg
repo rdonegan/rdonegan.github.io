@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="998px" height="572px" viewBox="0 0 998 572" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>refining-requirements</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="468" height="366"></rect>
+        <rect id="path-2" x="0" y="0" width="447" height="366"></rect>
+        <rect id="path-3" x="36" y="27" width="113" height="20"></rect>
+    </defs>
+    <g id="For-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="refining-requirements">
+            <text id="Constraints" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" fill="#333333">
+                <tspan x="201.512695" y="426">Constraints</tspan>
+            </text>
+            <text id="Users-can-upload-a-d" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="128.812988" y="476">Users can upload a document </tspan>
+                <tspan x="103.575195" y="500">containing constraints - a previously </tspan>
+                <tspan x="197.815918" y="524">held practice.</tspan>
+            </text>
+            <text id="User-research-reveal" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
+                <tspan x="602.344727" y="476">User research revealed a business </tspan>
+                <tspan x="604.590332" y="500">need to refine recommendations.</tspan>
+            </text>
+            <text id="Modifying-Prices" font-family="OpenSans-Bold, Open Sans" font-size="18" font-weight="bold" fill="#333333">
+                <tspan x="670.908203" y="426">Modifying Prices</tspan>
+            </text>
+            <g id="Group-7" transform="translate(30.000000, 22.000000)">
+                <g id="Rectangle">
+                    <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#D2D2D2" stroke-width="1" x="0.5" y="0.5" width="467" height="365"></rect>
+                </g>
+                <rect id="Rectangle-5-Copy-2" fill="#A0A0A0" x="0" y="0" width="468" height="18"></rect>
+                <g id="Group" transform="translate(37.000000, 31.000000)">
+                    <text id="Settings-Pick-the-Me" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal">
+                        <tspan x="57.512" y="11" fill="#000000">Settings</tspan>
+                        <tspan x="101.516" y="11" fill="#000000">     </tspan>
+                        <tspan x="118.196" y="11" fill="#000000">Pick the Menu</tspan>
+                        <tspan x="195.116" y="11" fill="#333333">      </tspan>
+                        <tspan x="215.132" y="11" fill="#000000">Constraints</tspan>
+                        <tspan x="276.692" y="11" fill="#000000">      </tspan>
+                        <tspan x="296.708" y="11" fill="#A8A8A8">Results</tspan>
+                        <tspan x="336.488" y="11" fill="#000000">  </tspan>
+                    </text>
+                    <g id="Group-5" transform="translate(107.000000, 5.000000)" stroke="#333333" stroke-linecap="square">
+                        <path d="M0,4 L6,2 L0,4 Z" id="Line-6"></path>
+                        <path d="M0,0 L5,2" id="Line-6"></path>
+                    </g>
+                    <g id="Group-5" transform="translate(202.000000, 5.000000)" stroke="#333333" stroke-linecap="square">
+                        <path d="M0,4 L6,2 L0,4 Z" id="Line-6"></path>
+                        <path d="M0,0 L5,2" id="Line-6"></path>
+                    </g>
+                    <g id="Group-5" transform="translate(283.000000, 5.000000)" stroke="#A8A8A8" stroke-linecap="square">
+                        <path d="M0,4 L6,2 L0,4 Z" id="Line-6"></path>
+                        <path d="M0,0 L5,2" id="Line-6"></path>
+                    </g>
+                </g>
+                <text id="CONSTRAINT" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="46" y="140">CONSTRAINT</tspan>
+                </text>
+                <text id="Constraint-X" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="82" y="95">Constraint X</tspan>
+                </text>
+                <text id="Constraint-Y" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="178" y="95">Constraint Y</tspan>
+                </text>
+                <text id="MENU-ITEM" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="166" y="140">MENU ITEM</tspan>
+                </text>
+                <text id="LOW" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="341.096" y="140">LOW</tspan>
+                </text>
+                <text id="HIGH" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="384.456" y="140">HIGH</tspan>
+                </text>
+                <g id="Group-2" transform="translate(46.000000, 157.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy" transform="translate(46.000000, 196.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(46.000000, 233.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-3" transform="translate(46.000000, 272.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-4" transform="translate(46.000000, 309.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <g id="Group-2-Copy-5" transform="translate(46.000000, 345.000000)" font-size="12" font-family="HelveticaNeue, Helvetica Neue" fill="#000000" font-weight="normal">
+                    <text id="Constraint-X">
+                        <tspan x="0" y="11">Constraint X </tspan>
+                    </text>
+                    <text id="Plain-maple-waffle">
+                        <tspan x="118.325416" y="11">Plain maple waffle </tspan>
+                    </text>
+                    <text id="$2.40">
+                        <tspan x="290.769349" y="11">$2.40</tspan>
+                    </text>
+                    <text id="$3.00">
+                        <tspan x="338.976" y="11">$3.00</tspan>
+                    </text>
+                </g>
+                <path d="M42.5812883,146.5 L420.506342,146.5" id="Line" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M42.5812883,183.5 L420.506342,183.5" id="Line-Copy" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M42.5812883,221.5 L420.506342,221.5" id="Line-Copy-2" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M42.5812883,258.5 L420.506342,258.5" id="Line-Copy-3" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M42.5812883,296.5 L420.506342,296.5" id="Line-Copy-4" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M42.5812883,333.5 L420.506342,333.5" id="Line-Copy-5" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <rect id="Rectangle-8" fill="#7A7A7A" x="302" y="79" width="120" height="24" rx="2"></rect>
+                <text id="Upload-constraints" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="312" y="96">Upload constraints</tspan>
+                </text>
+                <text id="All" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" text-decoration="underline" fill="#000000">
+                    <tspan x="46" y="95">All</tspan>
+                </text>
+            </g>
+            <g id="Group-6" transform="translate(522.000000, 22.000000)">
+                <g id="Rectangle-Copy">
+                    <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#D2D2D2" stroke-width="1" x="0.5" y="0.5" width="446" height="365"></rect>
+                </g>
+                <g id="Group-4" transform="translate(35.000000, 62.000000)">
+                    <text id="540.98" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">540.98</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="10" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group-3" transform="translate(163.000000, 62.000000)">
+                    <text id="26.5" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">26.5</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="1" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group-2" transform="translate(268.000000, 62.000000)">
+                    <text id="0.14" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">0.14</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="0" y="27" width="38" height="12"></rect>
+                </g>
+                <g id="Group" transform="translate(373.000000, 62.000000)">
+                    <text id="0.03" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                        <tspan x="0" y="19">0.03</tspan>
+                    </text>
+                    <rect id="Rectangle-2" fill="#D6D6D6" x="0" y="27" width="38" height="12"></rect>
+                </g>
+                <rect id="Rectangle-5-Copy" fill="#A0A0A0" x="0" y="0" width="447" height="18"></rect>
+                <rect id="Rectangle-5" fill="#BBBBBB" x="37" y="123" width="33" height="112"></rect>
+                <rect id="Rectangle-5-Copy-3" fill="#BBBBBB" x="113" y="179" width="33" height="56"></rect>
+                <rect id="Rectangle-5-Copy-4" fill="#BBBBBB" x="150" y="154" width="33" height="81"></rect>
+                <rect id="Rectangle-5-Copy-10" fill="#BBBBBB" x="75" y="154" width="33" height="81"></rect>
+                <rect id="Rectangle-5-Copy-5" fill="#BBBBBB" x="188" y="179" width="33" height="56"></rect>
+                <rect id="Rectangle-5-Copy-6" fill="#BBBBBB" x="226" y="134" width="33" height="101"></rect>
+                <rect id="Rectangle-5-Copy-11" fill="#BBBBBB" x="264" y="134" width="33" height="101"></rect>
+                <rect id="Rectangle-5-Copy-7" fill="#BBBBBB" x="301" y="200" width="33" height="35"></rect>
+                <rect id="Rectangle-5-Copy-9" fill="#BBBBBB" x="339" y="200" width="33" height="35"></rect>
+                <rect id="Rectangle-5-Copy-8" fill="#BBBBBB" x="377" y="154" width="33" height="81"></rect>
+                <g id="Rectangle-6">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#CDCDCD" stroke-width="1" x="36.5" y="27.5" width="112" height="19"></rect>
+                </g>
+                <text id="DMA:-Manhattan" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="41" y="41">DMA: Manhattan</tspan>
+                </text>
+                <text id="ITEM" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="294">ITEM</tspan>
+                </text>
+                <text id="Sugar-waffle" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="319">Sugar waffle</tspan>
+                </text>
+                <text id="Nutella-waffle" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="58" y="343">Nutella waffle</tspan>
+                </text>
+                <text id="CURRENT" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="143.348" y="294">CURRENT</tspan>
+                </text>
+                <text id="$2.59" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="169.976" y="319">$2.59</tspan>
+                </text>
+                <text id="$3.99" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="169.976" y="343">$3.99</tspan>
+                </text>
+                <text id="RECOMMENDED" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="234.536" y="294">RECOMMENDED</tspan>
+                </text>
+                <text id="$2.61" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="298.976" y="319">$2.61</tspan>
+                </text>
+                <text id="$3.99" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="298.976" y="343">$3.99</tspan>
+                </text>
+                <text id="DELTA" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="349.092" y="294">DELTA</tspan>
+                </text>
+                <rect id="Rectangle-8" fill="#7A7A7A" x="307" y="252" width="95" height="21" rx="2"></rect>
+                <text id="Modify-prices" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="318" y="267">Modify prices</tspan>
+                </text>
+                <text id="0.02" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="360.648" y="319">0.02</tspan>
+                </text>
+                <text id="0.00" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#000000">
+                    <tspan x="360.648" y="343">0.00</tspan>
+                </text>
+                <polygon id="Triangle-2" fill="#333333" transform="translate(139.000000, 37.000000) rotate(180.000000) translate(-139.000000, -37.000000) " points="139 34 142 40 136 40"></polygon>
+                <path d="M49.5368098,304.5 L398.544115,304.5" id="Line" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <path d="M49.5368098,326.5 L398.544115,326.5" id="Line-Copy" stroke="#D6D6D6" stroke-linecap="square"></path>
+                <rect id="Rectangle-9" stroke="#0553AC" stroke-width="2" x="37" y="242" width="371" height="115"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

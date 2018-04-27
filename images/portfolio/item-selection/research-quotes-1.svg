@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="888px" height="134px" viewBox="0 0 888 134" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>research-quotes-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="For-website-v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="research-quotes-outline">
+            <text id="“I-only-ever-use-a-f" font-family="OpenSansLight-Italic, Open Sans" font-size="16" font-style="italic" font-weight="300" fill="#000000">
+                <tspan x="302" y="41">“I only ever use a few items at a time.”</tspan>
+                <tspan x="302" y="66">“It’s overwhelming to see a huge list."</tspan>
+            </text>
+            <rect id="Rectangle" fill="#8CDBCD" x="321" y="79" width="215" height="6"></rect>
+            <rect id="Rectangle-Copy" fill="#BCE3DC" x="392" y="90" width="73" height="6"></rect>
+            <text id="“Sometimes-I’m-not-i" font-family="OpenSansLight-Italic, Open Sans" font-size="16" font-style="italic" font-weight="300" fill="#000000">
+                <tspan x="608.3125" y="44">“Sometimes I’m not in the software for </tspan>
+                <tspan x="630.039062" y="66">months, so I forget what I need.</tspan>
+            </text>
+            <rect id="Rectangle" fill="#8CDBCD" x="628" y="79" width="215" height="6"></rect>
+            <rect id="Rectangle-Copy" fill="#BCE3DC" x="699" y="90" width="73" height="6"></rect>
+            <rect id="Rectangle" fill="#8CDBCD" x="14" y="79" width="215" height="6"></rect>
+            <rect id="Rectangle-Copy" fill="#BCE3DC" x="82" y="90" width="73" height="6"></rect>
+            <text id="“We-use-our-initials" font-family="OpenSansLight-Italic, Open Sans" font-size="16" font-style="italic" font-weight="300" fill="#000000">
+                <tspan x="27.15625" y="44">“We use our initials to name </tspan>
+                <tspan x="66.8554688" y="66">what we create.”</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

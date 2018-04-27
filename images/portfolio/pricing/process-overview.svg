@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1013px" height="339px" viewBox="0 0 1013 339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>process-overview</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="For-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="process-overview">
+            <path d="M30.5,186.5 L980.221275,186.5" id="Line" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M193,77.5 L852.042677,77.5" id="Line-Copy" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M152,296.5 L814,296.5" id="Line-Copy-2" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M144,186 C155.298446,180.84435 162.026079,169.883355 164.1829,153.117015 C167.418131,127.967505 169.11468,78.6687483 192,78" id="Path-11" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M586,295 C597.298446,289.84435 604.026079,278.883355 606.1829,262.117015 C609.418131,236.967505 611.11468,187.668748 634,187" id="Path-11-Copy-2" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M353,295 C364.298446,289.84435 371.026079,278.883355 373.1829,262.117015 C376.418131,236.967505 378.11468,187.668748 401,187" id="Path-11-Copy-5" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M817,295 C828.298446,289.84435 835.026079,278.883355 837.1829,262.117015 C840.418131,236.967505 842.11468,187.668748 865,187" id="Path-11-Copy-3" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M852,187 C863.316133,181.804506 870.054298,170.758802 872.214495,153.862888 C875.454791,128.519016 878.078855,79.6739166 901,79" id="Path-11" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round" transform="translate(876.500000, 133.000000) scale(1, -1) translate(-876.500000, -133.000000) "></path>
+            <path d="M105,296 C116.298446,290.84435 123.026079,279.883355 125.1829,263.117015 C128.418131,237.967505 130.11468,188.668748 153,188" id="Path-11" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round" transform="translate(129.000000, 242.000000) scale(1, -1) translate(-129.000000, -242.000000) "></path>
+            <path d="M469,296 C480.298446,290.84435 487.026079,279.883355 489.1829,263.117015 C492.418131,237.967505 494.11468,188.668748 517,188" id="Path-11-Copy" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round" transform="translate(493.000000, 242.000000) scale(1, -1) translate(-493.000000, -242.000000) "></path>
+            <path d="M230,296 C241.298446,290.84435 248.026079,279.883355 250.1829,263.117015 C253.418131,237.967505 255.11468,188.668748 278,188" id="Path-11-Copy-6" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round" transform="translate(254.000000, 242.000000) scale(1, -1) translate(-254.000000, -242.000000) "></path>
+            <path d="M707,296 C718.298446,290.84435 725.026079,279.883355 727.1829,263.117015 C730.418131,237.967505 732.11468,188.668748 755,188" id="Path-11-Copy-4" stroke="#D0D0D0" stroke-width="6" stroke-linecap="round" transform="translate(731.000000, 242.000000) scale(1, -1) translate(-731.000000, -242.000000) "></path>
+            <text id="Connect-top-level-st" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="209" y="57">Connect top level strategy</tspan>
+            </text>
+            <text id="Research" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="30" y="166">Research</tspan>
+            </text>
+            <text id="Stakeholders" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="172" y="166">Stakeholders</tspan>
+            </text>
+            <text id="User-test" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="632" y="166">User test</tspan>
+            </text>
+            <text id="Hi-Fi" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="828" y="166">Hi-Fi</tspan>
+            </text>
+            <text id="Concepts" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="399" y="166">Concepts</tspan>
+            </text>
+            <text id="Define-requirements" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="293.036" y="257">Define </tspan>
+                <tspan x="272.148" y="275.4">requirements</tspan>
+            </text>
+            <text id="Refine-requirements" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="530.169" y="257">Refine </tspan>
+                <tspan x="509.148" y="275.4">requirements</tspan>
+            </text>
+            <text id="Polish-/-visual-desi" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="761.669" y="257">Polish / </tspan>
+                <tspan x="744.421" y="275.4">visual design</tspan>
+            </text>
+            <text id="MVP" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="919" y="166">MVP</tspan>
+            </text>
+            <path d="M511,296.5 L585,296.5" id="Line-Copy-3" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M587,186.5 L740,186.5" id="Line-Copy-5" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M753,296.5 L812,296.5" id="Line-Copy-5" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M827,186.5 L874,186.5" id="Line-Copy-5" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M916,186.5 L982,186.5" id="Line-Copy-7" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M196.991391,77.5 L851.009365,77.5" id="Line-Copy-6" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M31,186.5 L138,186.5" id="Line-Copy-4" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M273,296.5 L355,296.5" id="Line-Copy-8" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M159,186.5 L221,186.5" id="Line-Copy-4" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+            <path d="M393,186.5 L468,186.5" id="Line-Copy-2" stroke="#757575" stroke-width="6" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
