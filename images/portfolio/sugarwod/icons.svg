@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="954px" height="139px" viewBox="0 0 954 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icons</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="18.1132935%" y1="-37.5785649%" x2="75.7757938%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#18A2AE" offset="0%"></stop>
+            <stop stop-color="#188CAA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(198.000000, 32.000000)">
+            <text id="Snatch" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#121212">
+                <tspan x="22.3686523" y="71">Snatch</tspan>
+            </text>
+            <text id="Clean" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#121212">
+                <tspan x="191.196777" y="71">Clean</tspan>
+            </text>
+            <text id="Thruster" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#121212">
+                <tspan x="346.082031" y="71">Thruster</tspan>
+            </text>
+            <text id="Pull-up" font-family="OpenSans, Open Sans" font-size="14" font-weight="normal" fill="#121212">
+                <tspan x="507.109863" y="71">Pull-up</tspan>
+            </text>
+            <g id="Group" transform="translate(170.000000, 0.000000)" stroke="url(#linearGradient-1)" stroke-width="2">
+                <path d="M3.27191859,16 C28.7705958,14.6268262 53.3214191,15.1795267 76.9243886,17.6581016" id="Path-3"></path>
+                <circle id="Oval" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" cx="39.5" cy="6.5" r="6.5"></circle>
+                <polygon id="Path-4" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="0 5.14512949 12.6990717 3.59359001 14.7326832 27.8955981 2.54759526 28.3934073"></polygon>
+                <polygon id="Path-4" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(72.366342, 15.993499) scale(-1, 1) translate(-72.366342, -15.993499) " points="65 5.14512949 77.6990717 3.59359001 79.7326832 27.8955981 67.5475953 28.3934073"></polygon>
+                <polyline id="Line-3" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="27 18 30.1971969 21.3221815 34.2945406 18"></polyline>
+                <circle id="Oval-6" fill="#FFFFFF" cx="26" cy="15" r="3"></circle>
+                <polyline id="Line-3" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(48.352730, 19.661091) scale(-1, 1) translate(-48.352730, -19.661091) " points="44.7054594 18 47.9026563 21.3221815 52 18"></polyline>
+                <circle id="Oval-6" fill="#FFFFFF" transform="translate(53.000000, 15.000000) scale(-1, 1) translate(-53.000000, -15.000000) " cx="53" cy="15" r="3"></circle>
+            </g>
+            <g id="Group-2" transform="translate(330.000000, 0.000000)" stroke="url(#linearGradient-1)" stroke-width="2">
+                <path d="M4,14 C29,3.50393986 54,2.18848626 79,10.0536392" id="Path-3"></path>
+                <polygon id="Path-4" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="0 3.14512949 12.7617353 0 16 26.5925463 3.71182923 29"></polygon>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(81.000000, 14.500000) scale(-1, 1) translate(-81.000000, -14.500000) " points="73 3.14512949 85.7617353 0 89 26.5925463 76.7118292 29"></polygon>
+                <g id="Group" transform="translate(28.000000, 3.000000)">
+                    <path d="M7,6 L4.75,17.2857143" id="Line" transform="translate(5.500000, 12.000000) scale(-1, 1) translate(-5.500000, -12.000000) "></path>
+                    <circle id="Oval-6" fill="#FFFFFF" cx="3" cy="3" r="3"></circle>
+                </g>
+                <g id="Group" transform="translate(57.500000, 12.000000) scale(-1, 1) translate(-57.500000, -12.000000) translate(54.000000, 3.000000)">
+                    <path d="M7,6 L4.75,17.2857143" id="Line" transform="translate(5.500000, 12.000000) scale(-1, 1) translate(-5.500000, -12.000000) "></path>
+                    <circle id="Oval-6" fill="#FFFFFF" cx="3" cy="3" r="3"></circle>
+                </g>
+                <path d="M49.4045198,19.7657872 C50.3982694,18.6242075 51,17.1323746 51,15.5 C51,11.9101491 48.0898509,9 44.5,9 C40.9101491,9 38,11.9101491 38,15.5 C38,17.2949254 38.7275373,18.9199254 39.9038059,20.0961941" id="Oval" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+            <g id="Group" stroke="url(#linearGradient-1)" stroke-width="2">
+                <path d="M4,14 C29,3.50393986 54,2.18848626 79,10.0536392" id="Path-3"></path>
+                <polygon id="Path-4" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="0 3.14512949 12.7617353 0 16 26.5925463 3.71182923 29"></polygon>
+                <polygon id="Path-4-Copy" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" transform="translate(81.000000, 14.500000) scale(-1, 1) translate(-81.000000, -14.500000) " points="73 3.14512949 85.7617353 0 89 26.5925463 76.7118292 29"></polygon>
+                <circle id="Oval-6" fill="#FFFFFF" cx="22" cy="9" r="3"></circle>
+                <path d="M65.25,11.7142857 L54.75,20.2857143" id="Line"></path>
+                <path d="M34.25,11.7142857 L23.75,20.2857143" id="Line" transform="translate(29.000000, 16.000000) scale(-1, 1) translate(-29.000000, -16.000000) "></path>
+                <path d="M49.4045198,19.7657872 C50.3982694,18.6242075 51,17.1323746 51,15.5 C51,11.9101491 48.0898509,9 44.5,9 C40.9101491,9 38,11.9101491 38,15.5 C38,17.2949254 38.7275373,18.9199254 39.9038059,20.0961941" id="Oval" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-6-Copy" fill="#FFFFFF" cx="67" cy="9" r="3"></circle>
+            </g>
+            <g id="Group-3" transform="translate(498.000000, 3.000000)" stroke-width="2">
+                <path d="M0.5,12.5 L60.5,12.5" id="Line-2" stroke="#188FAB" stroke-linecap="round" stroke-linejoin="round"></path>
+                <g id="Group" transform="translate(15.000000, 0.000000)" fill="#FFFFFF" stroke="url(#linearGradient-1)">
+                    <path d="M21.9803537,9.9966058 C22.6258428,8.9870099 23,7.7871995 23,6.5 C23,2.91014913 20.0898509,0 16.5,0 C12.9101491,0 10,2.91014913 10,6.5 C10,7.79440548 10.3783582,9.00044068 11.0305125,10.0135436" id="Oval" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polyline id="Line-3" stroke-linecap="round" stroke-linejoin="round" points="4 15 7.1971969 18.3221815 11.5738466 16.6610907"></polyline>
+                    <circle id="Oval-6" cx="3" cy="12" r="3"></circle>
+                    <polyline id="Line-3" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.286158, 16.661091) scale(-1, 1) translate(-25.286158, -16.661091) " points="21.5723169 15 24.7695138 18.3221815 29 16.6610907"></polyline>
+                    <circle id="Oval-6" transform="translate(30.000000, 12.000000) scale(-1, 1) translate(-30.000000, -12.000000) " cx="30" cy="12" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
