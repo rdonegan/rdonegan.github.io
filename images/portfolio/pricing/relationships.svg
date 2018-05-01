@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="738px" height="482px" viewBox="0 0 738 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
-    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+<svg width="738px" height="376px" viewBox="0 0 738 376" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Stakeholders Copy</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -9,103 +9,97 @@
             <stop stop-color="#F7F7F7" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="For-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Stakeholders-Copy">
-            <g id="Group" transform="translate(119.000000, 30.000000)">
-                <text id="Promo-material-Brand" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="178.01" y="215">Promo material</tspan>
-                    <tspan x="191.72" y="227">Branding</tspan>
-                </text>
-                <path d="M195.5,265.5 L69.5,85.5" id="Line" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M177.5,287.5 L34.5,89.5" id="Line-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <text id="Sales-strategy-Price" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="309.835" y="75">Sales strategy</tspan>
-                    <tspan x="288.43" y="87">Price recommendations</tspan>
-                </text>
-                <polygon id="Triangle" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(34.696152, 89.330127) rotate(-30.000000) translate(-34.696152, -89.330127) " points="34.6961524 84.330127 40.6961524 94.330127 28.6961524 94.330127"></polygon>
-                <polygon id="Triangle-Copy" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(192.810205, 262.686948) rotate(140.000000) translate(-192.810205, -262.686948) " points="192.810205 257.686948 198.810205 267.686948 186.810205 267.686948"></polygon>
-                <path d="M394.5,56.5 L84.3967914,56.5" id="Line-2" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M394.5,30.5 L84.3967914,30.5" id="Line-2-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <text id="Store(s)-performance" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="91.145" y="11">Store(s) performance</tspan>
-                </text>
-                <text id="Price-changes" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="291.615" y="222">Price </tspan>
-                    <tspan x="284" y="234">changes</tspan>
-                </text>
-                <g id="stakeholder/corporate" transform="translate(3.000000, 1.000000)">
-                    <g id="Group-5">
-                        <g id="corporate-stakeholder">
-                            <polygon id="Triangle" fill="#8D5EEE" points="38.5 0 75 74 2 74"></polygon>
-                            <ellipse id="Oval-2" fill="url(#linearGradient-1)" cx="33" cy="37" rx="3" ry="6.5890411"></ellipse>
-                            <ellipse id="Oval-2-Copy" fill="url(#linearGradient-1)" cx="43" cy="37" rx="3" ry="6.5890411"></ellipse>
-                            <path d="M24,51.6986301 C33.3333333,51.997922 42.6666667,52.2972139 52,52.5965058" id="Path-2" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-                            <polygon id="Polygon" fill="#E3E3E3" points="37.5 58.7945205 40 61.8356164 37.5 64.8767123 35 61.8356164"></polygon>
-                            <polygon id="Polygon-Copy" fill="#E3E3E3" points="38 61.8356164 41 69.9386471 38 72.9863014 35 69.9386471"></polygon>
-                            <g id="Group-8" transform="translate(38.000000, 58.794521)" fill="#C1C1C1">
-                                <polyline id="Combined-Shape" points="0 15.2054795 3 11.9731189 0.773848197 5.59584441 0.773848197 5.59584441 2.25 3.37899543 0 0"></polyline>
-                            </g>
-                            <polygon id="Triangle" fill="#692AE8" points="39 0 4.57457935 74 0 74"></polygon>
-                        </g>
-                    </g>
-                </g>
-                <g id="stakeholder/manager" transform="translate(208.000000, 258.000000)">
-                    <g id="Group-3">
-                        <g id="Group">
-                            <rect id="Rectangle-3" fill="#20C31D" x="0.802197802" y="0.802816901" width="72.1978022" height="55.3943662"></rect>
-                            <ellipse id="Oval-2" fill="#F7F7F7" cx="27.2747253" cy="22.4788732" rx="3.20879121" ry="3.21126761"></ellipse>
-                            <ellipse id="Oval-2-Copy" fill="#F7F7F7" cx="45.7252747" cy="22.4788732" rx="3.20879121" ry="3.21126761"></ellipse>
-                            <polygon id="Rectangle-3" fill="#178A14" points="0.780494213 0.747956314 3.43655247 0.747956314 3.43655247 56.2348563 0.780494213 56.2348563"></polygon>
-                        </g>
-                        <path d="M26.40625,34.5 L38.59375,34.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-                        <g id="Group-2" transform="translate(47.000000, 44.000000)">
-                            <g id="nametag">
-                                <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="15" height="9" rx="2"></rect>
-                                <path d="M2,0 L13,0 L13,0 C14.1045695,7.78148667e-16 15,0.8954305 15,2 L15,3.27272727 L0,3.27272727 L0,2 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="#7C7B7B"></path>
-                            </g>
-                            <path d="M2.76315789,5.31818182 L12.2368421,5.31818182" id="Line-2" stroke="#979797" stroke-width="1.3" stroke-linecap="square"></path>
-                        </g>
-                    </g>
-                </g>
-                <text id="$" transform="translate(425.500000, 11.500000) rotate(-8.000000) translate(-425.500000, -11.500000) " font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="420" y="18">$</tspan>
-                </text>
-                <text id="$-copy" transform="translate(439.500000, 11.500000) rotate(-8.000000) translate(-439.500000, -11.500000) " font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#FFFFFF">
-                    <tspan x="434" y="18">$</tspan>
-                </text>
-                <text id="Operational-log" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="445" y="140">Operational log</tspan>
-                </text>
-                <g id="stakeholder/franchise" transform="translate(420.000000, 16.000000)">
-                    <g id="Group-5">
-                        <g id="Group-2">
-                            <polygon id="Rectangle-4" fill="#EBA507" transform="translate(36.389826, 36.477317) rotate(45.000000) translate(-36.389826, -36.477317) " points="10.7843557 11.1426389 58.2350364 18.7727253 61.9952963 61.8119954 15.9023252 58.4383432"></polygon>
-                            <path d="M27.1522953,44.2964311 C38.1238864,53.9457325 39.7017224,44.862421 46.1576059,34.7619609" id="Path-4" stroke="#F7F7F7"></path>
-                            <polygon id="Rectangle-4" fill="#D19308" transform="translate(36.198347, 36.488914) rotate(45.000000) translate(-36.198347, -36.488914) " points="10.8814644 11.1720309 18.6051947 58.5547401 61.5152298 61.8057963 16.0259994 58.4692912"></polygon>
-                        </g>
-                        <text id="$" transform="translate(30.500000, 31.000000) rotate(-8.000000) translate(-30.500000, -31.000000) " font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
-                            <tspan x="27" y="35">$</tspan>
-                        </text>
-                        <text id="$-copy" transform="translate(38.500000, 31.000000) rotate(-8.000000) translate(-38.500000, -31.000000) " font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
-                            <tspan x="35" y="35">$</tspan>
-                        </text>
-                    </g>
-                </g>
-                <text id="Transaction-history" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
-                    <tspan x="1.755" y="128">Transaction </tspan>
-                    <tspan x="12.5" y="140">history</tspan>
-                </text>
-                <path d="M445.5,110.5 L299.5,295.5" id="Line-3" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M430.5,101.5 L291.5,276.5" id="Line-3-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
-                <polygon id="Triangle-Copy-2" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(293.965928, 276.777087) rotate(100.000000) translate(-293.965928, -276.777087) " points="293.965928 271.777087 299.965928 281.777087 287.965928 281.777087"></polygon>
-                <polygon id="Triangle-Copy-3" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(444.782794, 110.537219) rotate(35.000000) translate(-444.782794, -110.537219) " points="444.782794 105.537219 450.782794 115.537219 438.782794 115.537219"></polygon>
-                <polygon id="Triangle-Copy-4" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(395.000000, 55.000000) rotate(90.000000) translate(-395.000000, -55.000000) " points="395 50 401 60 389 60"></polygon>
-                <polygon id="Triangle-Copy-5" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(86.000000, 30.000000) rotate(-90.000000) translate(-86.000000, -30.000000) " points="86 25 92 35 80 35"></polygon>
-            </g>
-            <text id="Stakeholder-relation" font-family="OpenSans, Open Sans" font-size="18" font-weight="normal" fill="#333333">
-                <tspan x="96.2744141" y="425">Stakeholder relationships were complex, as Corporate Waffleonia </tspan>
-                <tspan x="73.0800781" y="449">attempted to persuade Franchise Owners to accept recommendations.</tspan>
+    <g id="Stakeholders-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(119.000000, 30.000000)">
+            <text id="Promo-material-Brand" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="178.01" y="215">Promo material</tspan>
+                <tspan x="191.72" y="227">Branding</tspan>
             </text>
+            <path d="M195.5,265.5 L69.5,85.5" id="Line" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M177.5,287.5 L34.5,89.5" id="Line-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <text id="Sales-strategy-Price" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="309.835" y="75">Sales strategy</tspan>
+                <tspan x="288.43" y="87">Price recommendations</tspan>
+            </text>
+            <polygon id="Triangle" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(34.696152, 89.330127) rotate(-30.000000) translate(-34.696152, -89.330127) " points="34.6961524 84.330127 40.6961524 94.330127 28.6961524 94.330127"></polygon>
+            <polygon id="Triangle-Copy" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(192.810205, 262.686948) rotate(140.000000) translate(-192.810205, -262.686948) " points="192.810205 257.686948 198.810205 267.686948 186.810205 267.686948"></polygon>
+            <path d="M394.5,56.5 L84.3967914,56.5" id="Line-2" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M394.5,30.5 L84.3967914,30.5" id="Line-2-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <text id="Store(s)-performance" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="91.145" y="11">Store(s) performance</tspan>
+            </text>
+            <text id="Price-changes" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="291.615" y="222">Price </tspan>
+                <tspan x="284" y="234">changes</tspan>
+            </text>
+            <g id="stakeholder/corporate" transform="translate(3.000000, 1.000000)">
+                <g id="Group-5">
+                    <g id="corporate-stakeholder">
+                        <polygon id="Triangle" fill="#8D5EEE" points="38.5 0 75 74 2 74"></polygon>
+                        <ellipse id="Oval-2" fill="url(#linearGradient-1)" cx="33" cy="37" rx="3" ry="6.5890411"></ellipse>
+                        <ellipse id="Oval-2-Copy" fill="url(#linearGradient-1)" cx="43" cy="37" rx="3" ry="6.5890411"></ellipse>
+                        <path d="M24,51.6986301 C33.3333333,51.997922 42.6666667,52.2972139 52,52.5965058" id="Path-2" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polygon id="Polygon" fill="#E3E3E3" points="37.5 58.7945205 40 61.8356164 37.5 64.8767123 35 61.8356164"></polygon>
+                        <polygon id="Polygon-Copy" fill="#E3E3E3" points="38 61.8356164 41 69.9386471 38 72.9863014 35 69.9386471"></polygon>
+                        <g id="Group-8" transform="translate(38.000000, 58.794521)" fill="#C1C1C1">
+                            <polyline id="Combined-Shape" points="0 15.2054795 3 11.9731189 0.773848197 5.59584441 0.773848197 5.59584441 2.25 3.37899543 0 0"></polyline>
+                        </g>
+                        <polygon id="Triangle" fill="#692AE8" points="39 0 4.57457935 74 0 74"></polygon>
+                    </g>
+                </g>
+            </g>
+            <g id="stakeholder/manager" transform="translate(208.000000, 258.000000)">
+                <g id="Group-3">
+                    <g id="Group">
+                        <rect id="Rectangle-3" fill="#20C31D" x="0.802197802" y="0.802816901" width="72.1978022" height="55.3943662"></rect>
+                        <ellipse id="Oval-2" fill="#F7F7F7" cx="27.2747253" cy="22.4788732" rx="3.20879121" ry="3.21126761"></ellipse>
+                        <ellipse id="Oval-2-Copy" fill="#F7F7F7" cx="45.7252747" cy="22.4788732" rx="3.20879121" ry="3.21126761"></ellipse>
+                        <polygon id="Rectangle-3" fill="#178A14" points="0.780494213 0.747956314 3.43655247 0.747956314 3.43655247 56.2348563 0.780494213 56.2348563"></polygon>
+                    </g>
+                    <path d="M26.40625,34.5 L38.59375,34.5" id="Line" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="Group-2" transform="translate(47.000000, 44.000000)">
+                        <g id="nametag">
+                            <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="15" height="9" rx="2"></rect>
+                            <path d="M2,0 L13,0 C14.1045695,-1.18396092e-15 15,0.8954305 15,2 L15,3.27272727 L0,3.27272727 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="#7C7B7B"></path>
+                        </g>
+                        <path d="M2.76315789,5.31818182 L12.2368421,5.31818182" id="Line-2" stroke="#979797" stroke-width="1.3" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+            <text id="$" transform="translate(425.500000, 11.500000) rotate(-8.000000) translate(-425.500000, -11.500000) " font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#FFFFFF">
+                <tspan x="420" y="18">$</tspan>
+            </text>
+            <text id="$-copy" transform="translate(439.500000, 11.500000) rotate(-8.000000) translate(-439.500000, -11.500000) " font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#FFFFFF">
+                <tspan x="434" y="18">$</tspan>
+            </text>
+            <text id="Operational-log" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="445" y="140">Operational log</tspan>
+            </text>
+            <g id="stakeholder/franchise" transform="translate(420.000000, 16.000000)">
+                <g id="Group-5">
+                    <g id="Group-2">
+                        <polygon id="Rectangle-4" fill="#EBA507" transform="translate(36.389826, 36.477317) rotate(45.000000) translate(-36.389826, -36.477317) " points="10.7843557 11.1426389 58.2350364 18.7727253 61.9952963 61.8119954 15.9023252 58.4383432"></polygon>
+                        <path d="M27.1522953,44.2964311 C38.1238864,53.9457325 39.7017224,44.862421 46.1576059,34.7619609" id="Path-4" stroke="#F7F7F7"></path>
+                        <polygon id="Rectangle-4" fill="#D19308" transform="translate(36.198347, 36.488914) rotate(45.000000) translate(-36.198347, -36.488914) " points="10.8814644 11.1720309 18.6051947 58.5547401 61.5152298 61.8057963 16.0259994 58.4692912"></polygon>
+                    </g>
+                    <text id="$" transform="translate(30.500000, 31.000000) rotate(-8.000000) translate(-30.500000, -31.000000) " font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="27" y="35">$</tspan>
+                    </text>
+                    <text id="$-copy" transform="translate(38.500000, 31.000000) rotate(-8.000000) translate(-38.500000, -31.000000) " font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="35" y="35">$</tspan>
+                    </text>
+                </g>
+            </g>
+            <text id="Transaction-history" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#333333">
+                <tspan x="1.755" y="128">Transaction </tspan>
+                <tspan x="12.5" y="140">history</tspan>
+            </text>
+            <path d="M445.5,110.5 L299.5,295.5" id="Line-3" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M430.5,101.5 L291.5,276.5" id="Line-3-Copy" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polygon id="Triangle-Copy-2" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(293.965928, 276.777087) rotate(100.000000) translate(-293.965928, -276.777087) " points="293.965928 271.777087 299.965928 281.777087 287.965928 281.777087"></polygon>
+            <polygon id="Triangle-Copy-3" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(444.782794, 110.537219) rotate(35.000000) translate(-444.782794, -110.537219) " points="444.782794 105.537219 450.782794 115.537219 438.782794 115.537219"></polygon>
+            <polygon id="Triangle-Copy-4" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(395.000000, 55.000000) rotate(90.000000) translate(-395.000000, -55.000000) " points="395 50 401 60 389 60"></polygon>
+            <polygon id="Triangle-Copy-5" stroke="#D8D8D8" fill="#D8D8D8" stroke-linecap="round" stroke-linejoin="round" transform="translate(86.000000, 30.000000) rotate(-90.000000) translate(-86.000000, -30.000000) " points="86 25 92 35 80 35"></polygon>
         </g>
     </g>
 </svg>
