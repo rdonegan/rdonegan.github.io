@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6,p, li {
     /*color: #404040;*/
 }
 
-p, ol, ul {
+p, ol, ul, figcaption {
     font-weight: lighter;
     font-size: 1.1em;
     line-height: 1.6em;
@@ -73,6 +73,10 @@ a {
 }
 
 .portfolio-piece h4{
+    font-size: .9em;
+}
+
+figcaption{
     font-size: .9em;
 }
 
