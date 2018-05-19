@@ -47,6 +47,10 @@
 	padding-left:5px;
 }
 
+.portfolio-preview img{
+	max-height: 200px;
+}
+
 /*at the top, describing portfolio piece highlights*/
 .summary-text{
 	

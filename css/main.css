@@ -68,6 +68,7 @@ a {
     margin: 1em 0em;
 }
 
+
 .portfolio-piece p{
     margin-left: 0;
 }
@@ -217,6 +218,21 @@ display: inline-block}
 /*.intro h1{
     font-size: 1.2em;
 }*/
+
+/*Styling for mobile gifs*/
+.demo{
+    max-height: 400px;
+    background-color: #F8F8F8;
+    
+    /*align:center;*/
+}
+
+.demo-back{
+    background-color: #F8F8F8;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 4px;
+}
 
 /* Grid List  */
 .grid-list-wrapper {
