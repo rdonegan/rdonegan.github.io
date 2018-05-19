@@ -221,10 +221,8 @@ display: inline-block}
 
 /*Styling for mobile gifs*/
 .demo{
-    max-height: 400px;
-    background-color: #F8F8F8;
-    
-    /*align:center;*/
+    max-height: 500px;
+    box-shadow: 0px 1px 4px 2px #C0C0C0;
 }
 
 .demo-back{
