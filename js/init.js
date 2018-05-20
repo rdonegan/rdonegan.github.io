@@ -54,6 +54,14 @@ $(document).ready(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/icommute.svg');
 	});
 
+	$('.palau-tile').mouseover(function(){
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/palau-project.gif');
+	});
+
+	$('.palau-tile').mouseout(function(){
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/palau-project.svg');
+	});
+
 	
 
 
