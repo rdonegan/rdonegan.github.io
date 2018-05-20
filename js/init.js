@@ -38,6 +38,14 @@ $(document).ready(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwodTile.svg');
 	});
 
+	$('.virtual-agents-tile').mouseover(function(){
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/virtual-agents.gif');
+	});
+
+	$('.virtual-agents-tile').mouseout(function(){
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/virtual-agents.svg');
+	});
+
 	
 
 
