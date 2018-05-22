@@ -33,6 +33,7 @@ $(document).ready(function(){
 	$('.sugarwod-tile').mouseover(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwod2.gif');
 	});
+	
 
 	$('.sugarwod-tile').mouseout(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwodTile.svg');
