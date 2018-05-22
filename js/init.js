@@ -23,7 +23,7 @@ $(document).ready(function(){
 	});
 
 	$('.pricing-tile').mouseover(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/pricing.gif');
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/pricing2.gif');
 	});
 
 	$('.pricing-tile').mouseout(function(){
@@ -31,7 +31,7 @@ $(document).ready(function(){
 	});
 
 	$('.sugarwod-tile').mouseover(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwod.gif');
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwod2.gif');
 	});
 
 	$('.sugarwod-tile').mouseout(function(){
@@ -47,7 +47,7 @@ $(document).ready(function(){
 	});
 
 	$('.icommute-tile').mouseover(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/icommute.gif');
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/icommute2.gif');
 	});
 
 	$('.icommute-tile').mouseout(function(){
@@ -55,7 +55,7 @@ $(document).ready(function(){
 	});
 
 	$('.palau-tile').mouseover(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/palau-project.gif');
+		$(this).find('img').attr('src', 'images/portfolio/project-tiles/palau-project-2.gif');
 	});
 
 	$('.palau-tile').mouseout(function(){
