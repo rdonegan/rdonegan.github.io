@@ -30,14 +30,14 @@ $(document).ready(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/pricing.svg');
 	});
 
-	$('.sugarwod-tile').mouseover(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwod.gif');
-	});
+	// $('.sugarwod-tile').mouseover(function(){
+	// 	$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwod.gif');
+	// });
 	
 
-	$('.sugarwod-tile').mouseout(function(){
-		$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwodTile.svg');
-	});
+	// $('.sugarwod-tile').mouseout(function(){
+	// 	$(this).find('img').attr('src', 'images/portfolio/project-tiles/sugarwodTile.svg');
+	// });
 
 	$('.virtual-agents-tile').mouseover(function(){
 		$(this).find('img').attr('src', 'images/portfolio/project-tiles/virtual-agents.gif');

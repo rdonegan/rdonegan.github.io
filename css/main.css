@@ -445,6 +445,25 @@ header {
     opacity:1
 }
 
+.animatedSugar{
+    display: none;
+    /*visibility: hidden;*/
+    height:0;
+    width:0;
+}
+
+.sugarwod-tile:hover .animatedSugar{
+    /*visibility: visible;*/
+    display:block;
+    height:100%;
+    width:100%;
+}
+
+.sugarwod-tile:hover .sugar{
+    opacity: 0;
+    display:none;
+}
+
 .overlay a {
     font-size:.8em;
     color:#fff;
