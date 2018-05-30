@@ -38,7 +38,7 @@ p, ol, ul, figcaption {
     margin: 0 auto;
 }
 
-.animatedSugar{
+.gifImage{
     display: none;
     /*visibility: hidden;*/
     height:0;
@@ -448,28 +448,27 @@ header {
 
 }
 
+/*******
+Grid tile animations
+*******/
+
 .grid-list:hover .overlay {
     opacity:1
 }
 
-/*.animatedSugar{
-    display: none;
-    visibility: hidden;
-    height:0;
-    width:0;
-}*/
 
-.sugarwod-tile:hover .animatedSugar{
+.virtual-agents-tile:hover .gifImage,.icommute-tile:hover .gifImage,.palau-tile:hover .gifImage,.decision-tree-tile:hover .gifImage,.pricing-tile:hover .gifImage,.item-selector-tile:hover .gifImage, .sugarwod-tile:hover .gifImage{
     /*visibility: visible;*/
     display:block;
     height:100%;
     width:100%;
 }
 
-.sugarwod-tile:hover .sugar{
+.virtual-agents-tile:hover .initialImage,.icommute-tile:hover .initialImage,.palau-tile:hover .initialImage,.decision-tree-tile:hover .initialImage,.pricing-tile:hover .initialImage,.item-selector-tile:hover .initialImage,.sugarwod-tile:hover .initialImage{
     opacity: 0;
     display: none;
 }
+
 
 .overlay a {
     font-size:.8em;
@@ -478,6 +477,10 @@ header {
     width:100%;
     display:block
 }
+
+/*******
+END: Grid tile animations
+*******/
 
 .grid-list {
     margin:0;
