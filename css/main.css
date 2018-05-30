@@ -38,6 +38,13 @@ p, ol, ul, figcaption {
     margin: 0 auto;
 }
 
+.animatedSugar{
+    display: none;
+    /*visibility: hidden;*/
+    height:0;
+    width:0;
+}
+
 
 
 a {
@@ -445,12 +452,12 @@ header {
     opacity:1
 }
 
-.animatedSugar{
+/*.animatedSugar{
     display: none;
-    /*visibility: hidden;*/
+    visibility: hidden;
     height:0;
     width:0;
-}
+}*/
 
 .sugarwod-tile:hover .animatedSugar{
     /*visibility: visible;*/
@@ -461,7 +468,7 @@ header {
 
 .sugarwod-tile:hover .sugar{
     opacity: 0;
-    display:none;
+    display: none;
 }
 
 .overlay a {
