@@ -221,6 +221,66 @@ display: inline-block}
     margin-left: auto;
 }
 
+
+/*************temporary intro*/
+.about-intro-2 h1{
+    font-size: 3em;
+    line-height: 1.3em;
+    font-family: 'Source Serif Pro', serif;
+    color: #333;
+}
+
+.about-intro-2 span {
+    font-weight:100
+}
+
+.about-intro-2{
+    float: none;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contact-info-1{
+    float: none;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+  
+}
+
+.contact-info-1 h4{
+    font-family: 'Roboto', sans-serif;
+    text-transform: none;
+    color: #333;
+}
+
+.robo-image{
+    float: none;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.robo-image img{
+    height: 116px;
+    float: none;
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/*************end temporary intro*/
+
 /*.intro h1{
     font-size: 1.2em;
 }*/
