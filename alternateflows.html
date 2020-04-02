@@ -81,19 +81,19 @@
 
                     <div class="row">
                         <div class="col-sm-6">
-                            <p><strong>Problem.</strong> People who don’t meet eligibility criteria for personal loan at Prosper may have a shot somewhere else. How do we expose those options, and encourage users to learn more?
+                            <p><strong>Problem.</strong> 75% of loan applicants abandon Prosper after being told they're ineligible but may have more options. How do we expose those options, and encourage more users to learn more?
                             </p>
 
-                            <p><strong>Constraints.</strong> All terms and conditions need to be clear and visible (more on that below).
+                            <p><strong>Constraints.</strong> We partnered with loan provider, AmOne, to offer customers this experience. Terms and conditions needed to be clear for both AmOne and Prosper (more on that below).
                             </p>
 
                         </div>
                         <div class="col-sm-6">
 
-                             <p><strong>My role.</strong> I worked with one other designer to share research, UX, and UI responsibilities.
+                             <p><strong>My role.</strong> I worked with one other designer to share research, UX, and UI responsibilities. We collaborated with a product manager and our legal team to explore this problem area.
                             </p>
 
-                            <p><strong>Result.</strong> Our revamped concept saw a conversion increase from 25% to 65%, with more people choosing to explore their options with our partner.
+                            <p><strong>Result.</strong> Our revamped concept saw a conversion increase from 25% to 65%, with more people choosing to explore their options with AmOne after a decline from Prosper.
                             </p>
                         </div>
                     </div> 
@@ -103,9 +103,11 @@
             <div class="row">
                 <div class="col-2 col-sm-8 col-md-6 portfolio-content">
                     <h4>THE PROBLEM</h4>
-                    <p>Prosper offers fixed term, low interest personal loans between $2,000 - $40,000. Of course, not everyone qualifies for a loan with Prosper, but they might have more options!</p>
+                    <p>Prosper offers fixed term, low interest personal loans $2,000 - $40,000. To check eligibility, applicants apply online through a multi-step form. At the end of the form, applicants either receive a loan offer, or are found ineligible.</p>
 
-                    <p>When I was brought on to the project, Prosper offered an alternative loan solution through its partner, AmOne. Conversion from Prosper to the AmOne interface hovered around 25%, while similar competitors implemented solutions averaging ~60% conversion. Clearly, there was work to be done.</p>
+                    <p>For a subset of ineligible applicants, Prosper offers the opportunity to check loan rates with a partner lender: AmOne. This applicant subset is deemed eligible due to a variety of criteria like FICO score, income band, etc. The problem was that the <b>conversion from Prosper to the AmOne interface hovered around 25%, while similar competitors implemented solutions averaging ~50%</b>.</p>
+
+                    <p>We asked: why this discrepancy, and how is that linked to conversion?</p>
                 </div>
             </div>
 
@@ -126,14 +128,15 @@
 
             <div class="row">
                 <div class="col-2 col-sm-8 col-md-6 portfolio-content">
-                    <h4>USER RESEARCH</h4>
-                    <p>We ran a user test with five participants who met demographics similar to Prosper customers. Based on our research, we diagnosed the following:</p>
+                    <h4>DISCOVERING THE DECLINE FLOW</h4>
+                    <p>First, we needed to understand the response to the existing experience. Quantitatively, something looked very wrong. Qualitatively, we expected to dig into some of the problems leading to the concerning numbers.</p>
+
+                    <p>We ran a quick and dirty user test on the existing UI. To simulate the experience more realistically, we asked 5 participants to walk through a full Prosper application. On the back end, we setup all applications to conclude with a decline and AmOne offer. Based on our research, we observed the following:</p>
 
                     <ul>
-                        <li>People are unsurprisingly not happy to discover they’ve been declined for a loan through Prosper.</li>
-                        <li>People don’t want to repeat themselves. They need money, and they need it fast. The prospect of reentering their loan application was not appealing.
-</li>
-                        <li>The AmOne branding was not working. Evidently, the old design’s attempt to blend AmOne with Prosper styling was translating to a confusing experience.</li>
+                        <li><b>All participants were surprised and some frustrated</b> by the decline page. Although the application should have been preparing them for a possible failure, everyone was thrown by the end result.</li>
+                        <li>The <b>perception of time wasted</b> was noted verbally. After completing a multi-page application, users were not happy with the final result. Furthermore, none of the participants understood that continuing with AmOne would <i>not</i> require they reenter their info.</li>
+                        <li>People thought Prosper and AmOne were <b>selling too hard</b>. Something about the look and feel of the decline page in particular made people view the offer as advertisement. This was not received well.</li>
                     </ul>
                 </div>
             </div>
@@ -143,7 +146,7 @@
 
                     <figure>
                         <img class="img-responsive single-image" src="images/portfolio/alternateFlows/problemsAnnotated.svg" alt="Existing Pain Points"> 
-                        <figcaption class="figure-caption text-center">Our user research identified many design opportunities. In general, users were caught off gaurd by the visuals of the page, which seemed like a hybrid between Prosper and AmOne.</figcaption>
+                        <figcaption class="figure-caption text-center">Our research identified many design opportunities. In general, users were caught off gaurd by the visuals of the page, which seemed like a hybrid between Prosper and AmOne.</figcaption>
                     </figure>
                        
                 </div>
@@ -152,28 +155,12 @@
 
             <div class="row">
                 <div class="col-2 col-sm-8 col-md-6 portfolio-content">
-                    <h4>THE IMPORTANCE OF TRANSPARENCY</h4>
-                    <p>It’s important to note that a goal of the project was to build customers' trust through transparency. We recognized the risk of introducing a page like this and impact it may have on customers who find it unsolicited. We needed to communicate that Prosper would only use an applicant’s information to expedite their application, and would not otherwise sell that info to third parties.</p>
+                    <h4>TRYING NEW THINGS</h4>
+                    <p>With qualitative insight, we went back to the drawing board. We sketched different concepts, and ran user tests to validate our assumptions.</p>
 
-                    <p>That goal manifested in a strict requirement that the AmOne disclosure needed to appear above the CTA in a legible, clear form. Design-wise, we could play with how this information appeared, but it was important that our customers understand this step before moving forward.</p>
+                    <p>One of our assumptions was that the hybrid visual approach of the existing page wasn't working. Users were confused why part of the page looked like it belonged to Prosper and other parts belonged to AmOne.</p>
 
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-sm-12 col-md-8 portfolio-content">
-                    
-                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/goodAndBadDisclosures.svg" alt="Good and Bad Examples of Transparency"> 
-                    <figcaption class="figure-caption text-center">We explored layouts that would minimize friction while preserving transparency.</figcaption>
-                       
-                </div>
-                
-            </div>
-
-            <div class="row">
-                <div class="col-2 col-sm-8 col-md-6 portfolio-content">
-                    <h4>USER TESTING CONCEPTS</h4>
-                    <p>We tested rapidly across a diverse user base matching the Prosper demo. To more realistically simulate the scenario we were designing, we asked all participants to click through a fake loan application, culminating in a test version of the “AmOne page”. </p>
+                    <p><b>We hypothesized that by <i>more</i> clearly distinguishing the AmOne brand from Prosper's, we could improve transparency and thus trust</b>. We tested this by separating the Prosper notice at the top of the page from a dedicated AmOne panel, and intentionally incorporating AmOne colors.</p>
 
                 </div>
             </div>
@@ -188,14 +175,54 @@
                 
             </div>
 
+            <div class="row">
+                <div class="col-2 col-sm-8 col-md-6 portfolio-content">
+                    <p><b>Participants did not respond well to the AmOne branding</b>. The page seemed too much like an add, thus not trustworthy. Only 1 user of 5 tested noticed the helpful bullets we added to summarize the bulky disclosure.</p>
+
+                    <p><b>Now, we hypothesized that by making the decline experience feel like the next step of the application, we could reduce surprise and frustation.</b></p>
+
+                    <p>We adjusted the panel width to match those of all proceeding application steps. All fonts, colors, and CTA's were brought into accord with the Prosper style as well.</p>
+
+                </div>
+            </div>
+
              <div class="row">
                 <div class="col-sm-12 col-md-10 portfolio-content">
                     
                     <img class="img-responsive single-image" src="images/portfolio/alternateFlows/test4.svg" alt="User Test 4"> 
-                    <figcaption class="figure-caption text-center">We tested across both mobile and desktop experiences to hone iterations and get feedback.</figcaption>
+                    <figcaption class="figure-caption text-center">We tested this page, which relied solely on Prosper colors and styles.</figcaption>
                        
                 </div>
                 
+            </div>
+
+            <div class="row">
+                <div class="col-2 col-sm-8 col-md-6 portfolio-content">
+                    <p><b>Participants were more likely to read the Prosper-style page</b> even though some were still surprised to see it in the first place.</p>
+
+                    <p>This stylistic approach was a noteworthy success over other trials. Next, we focused on refining copy and the dislosure text.</p>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-2 col-sm-8 col-md-6 portfolio-content">
+                    <h4>A NOTE ON TRANSPARENCY</h4>
+                    <p>A goal of the project was to build customers' trust through transparency. We recognized the risk of introducing a page like this and impact it may have on customers who find it unsolicited.</p>
+
+                    <p>That goal manifested in a strict requirement that the AmOne disclosure needed to appear above the CTA in a legible, clear form. Design-wise, we could play with how this information appeared, but it was important that our customers understand this step before moving forward.</p>
+
+                    <p><b>Although it increased page height - particularly for mobile - perceived trust from test participants was moderate to high.</b></p>
+
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12 col-md-8 portfolio-content">
+                    
+                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/goodAndBadDisclosures.svg" alt="Good and Bad Examples of Transparency"> 
+                    <figcaption class="figure-caption text-center">We explored layouts that would minimize friction while preserving transparency.</figcaption>    
+                </div> 
             </div>
 
             <div class="row">
@@ -204,9 +231,9 @@
                     <p>Some of the key considerations we made in our final solution:</p>
 
                     <ul>
-                        <li>Copy is key: we found that by tweaking the copy on the page, we could better acclimate users to a page none would ever have expected. By reframing as an opportunity rather than an endpoint, we tried to reframe the page itself.</li>
-                        <li>Continuity: early research suggested that attempt to bring in external branding was jarring, and only amplified the confusion most people felt on the page. To correct this, we used only Prosper-themed components, and made the tile look like the next step in the process.</li>
-                        <li>Simplifying the disclosure: Working with legal copy is hard, but necessary. Our final solution - an iframe - may not be the most elegant solution, but it dramatically improved transparency and was something we could optimize later.</li>
+                        <li>Copy is key: we found that by focusing the page on opportunity rather than a decline, users were more inclined to pursue their options.</li>
+                        <li>Continuity: We used Prosper styles to make the page feel like the next step in the application. Although some participants were frustrated by the decline, they were no longer surprised by the page itself.</li>
+                        <li>Highlighting transparency: To unlock the CTA and see their options, users must read for the full disclosure (via scroll). Contrary to our expectation, test results validated this as a well known and successful pattern. </li>
                     </ul>
                 </div>
             </div>
@@ -215,25 +242,22 @@
             <div class="row">
                 <div class="col-sm-12 portfolio-content">
                     
-                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/finalFlow.svg" alt="The Final Flow"> 
-                    <figcaption class="figure-caption text-center">Our hypothesis was that by making incorporating the new step like another part of the application process, we'd see increased conversion in users moving forward.</figcaption>
-                       
+                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/finalFlow.svg" alt="The Final Flow">      
                 </div>
-                
             </div>
 
 
             <div class="row">
                 <div class="col-2 col-sm-8 col-md-6 portfolio-content">
                     <h4>RESULT</h4>
-                    <p>The final implementation of the page exceeded are expectations, with click-through on the page hitting 65%, up from a 25% average. In other words, <b>over half of eligible applicants pursued their options with AmOne after being declined by Prosper.</b> </p>
+                    <p>Our new version of the page was developed and entered a round of A/B testing against the existing page. The new page exceeded are expectations, and <b>click-through improved by 40%, normalizing at ~65%</b>. In other words, over half of eligible applicants pursued their options with AmOne.</p>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-sm-12 col-md-10 portfolio-content">
                     
-                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/desktopAndWeb.svg" alt="Desktop and Web Views"> 
+                    <img class="img-responsive single-image" src="images/portfolio/alternateFlows/desktopAndWeb.svg" alt="Desktop and Web Views"><figcaption class="figure-caption text-center">Our final design was tested on web and mobile.</figcaption>  
                        
                 </div>
                 
