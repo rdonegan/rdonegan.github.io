@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6,p, li {
 
 p, ol, ul {
     font-weight: normal;
-    font-size: 1.0em;
+    font-size: 1.1em;
     line-height: 1.7em;
 }
 
@@ -64,6 +64,7 @@ a {
 
 .portfolio-piece h3, h4{
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.4em;
     margin: 0;
     margin-top: 2em;
     margin-bottom: 1em;
@@ -77,9 +78,9 @@ a {
     margin-left: 0;
 }
 
-.portfolio-piece h4{
-    font-size: 1.5em;
-}
+/*.portfolio-piece h4{
+    font-size: 1.4em;
+}*/
 
 
 /*Portfolio images*/
