@@ -27,10 +27,10 @@ h1,h2,h3,h4,h5,h6,p, li {
     /*color: #404040;*/
 }
 
-p, ol, ul, figcaption {
-    font-weight: lighter;
+p, ol, ul {
+    font-weight: normal;
     font-size: 1.1em;
-    line-height: 1.6em;
+    line-height: 1.7em;
 }
 
 .carouselCenter{
@@ -64,15 +64,13 @@ a {
 
 .portfolio-piece h3, h4{
     font-family: 'Montserrat', sans-serif;
+    font-size: 1.4em;
     margin: 0;
-    margin-top: 1em;
-    margin-bottom: 2em;
-    color: #585858;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    /*color: #585858;*/
     text-transform: uppercase;
-}
-
-.single-image{
-    margin: 1em 0em;
+    letter-spacing: 0.04em;
 }
 
 
@@ -80,18 +78,40 @@ a {
     margin-left: 0;
 }
 
-.portfolio-piece h4{
-    font-size: 1.5em;
+/*.portfolio-piece h4{
+    font-size: 1.4em;
+}*/
+
+
+/*Portfolio images*/
+
+.image-wrapper{
+    margin: 3em auto 4em auto;
+    float:none;
+}
+
+
+
+.single-image{
+    /*margin: 2em 0em 2em 0em;*/
+    margin-bottom: 2em;
 }
 
 figcaption{
     font-size: .9em;
+    line-height: 1.9em;
+    color:#818181;
 }
+
+
+
 
 /*.proj-intro{
     font-size: 1.1em;
     display: inline;
 }*/
+
+/*Portfolio hero images*/
 
 .proj-image{
     position:relative;
@@ -119,6 +139,8 @@ figcaption{
     margin-right: auto;
     margin-left: auto;
 }
+
+
 
 .page-intro{
     text-align: center;
