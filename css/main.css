@@ -238,11 +238,16 @@ display: inline-block}
     float: none;
     text-align: center;
     margin-top: 2em;
+    width:500px;
     margin-bottom: 10em;
     margin-right: auto;
     margin-left: auto;
 }
 
+#lottie{
+    width: 150px;
+    margin: 0em auto 1em;
+}
 
 /*************temporary intro*/
 .about-intro-2 h1{
@@ -302,6 +307,10 @@ display: inline-block}
 }
 
 /*************end temporary intro*/
+
+
+
+
 
 /*.intro h1{
     font-size: 1.2em;

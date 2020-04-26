@@ -16,6 +16,7 @@
     <!-- jQuery from CDN -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.6.8/lottie.min.js"></script>
 <!-- <script src="js/init.js"></script> -->
 <!-- <script type="text/javascript" src="js/jquery.simple-text-rotator.min.js"></script> -->
 
@@ -77,13 +78,11 @@
 
                 <div class="row">
                     <div class="col-sm-7 about-intro">
-                        <img src="images/ryan_avatar.svg" alt="Ryan Donegan"></img>
+                        <div id="lottie"></div>
                         <h1><span>Hi,</span> <span>I’m</span> Ryan<span> - a</span> <span> designer, researcher, and user advocate.</span></h1>
 
                     </div>
                 </div>
-            </header>
-
 
 
             <!-- Projects: Row 1 -->
@@ -172,6 +171,17 @@
             
 
          </div>
+
+         <!-- Run Animation -->
+         <script> 
+            var animation = bodymovin.loadAnimation({
+              container: document.getElementById('lottie'),
+              renderer: 'svg',
+              loop: true,
+              autoplay: true,
+              path: 'RyanAvatar.json'
+            })
+        </script>
     </div>
 
     <footer>
