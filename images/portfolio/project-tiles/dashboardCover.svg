@@ -193,7 +193,7 @@
 <rect x="765" y="1202" width="151" height="6" rx="3" fill="#DCDCDC"/>
 <rect x="1290" y="1202" width="112" height="6" rx="3" fill="#DCDCDC"/>
 <rect x="1491" y="1202" width="112" height="6" rx="3" fill="#DCDCDC"/>
-<path d="M389 1182.5H1677C1677.83 1182.5 1678.5 1183.17 1678.5 1184V1227.5H387.5V1184C387.5 1183.17 388.172 1182.5 389 1182.5Z" stroke="#DEDEDE"/>
+<path d="M387.5 1184C387.5 1183.17 388.172 1182.5 389 1182.5H1677C1677.83 1182.5 1678.5 1183.17 1678.5 1184V1227.5H387.5V1184Z" stroke="#DEDEDE"/>
 <rect x="403" y="1247" width="125" height="6" rx="3" fill="#C4C4C4"/>
 <rect x="662" y="1247" width="93" height="6" rx="3" fill="#DCDCDC"/>
 <rect x="765" y="1247" width="151" height="6" rx="3" fill="#DCDCDC"/>
@@ -261,7 +261,6 @@
 <rect x="1542.5" y="933.5" width="136" height="174" rx="1.5" stroke="#DEDEDE"/>
 </g>
 </g>
-<path d="M147 344.5H1699C1709.77 344.5 1718.5 353.23 1718.5 364V1497C1718.5 1499.49 1716.49 1501.5 1714 1501.5H132C129.515 1501.5 127.5 1499.49 127.5 1497V364C127.5 353.23 136.23 344.5 147 344.5Z" stroke="#DEDEDE" shape-rendering="crispEdges"/>
 </g>
 </g>
 <defs>
