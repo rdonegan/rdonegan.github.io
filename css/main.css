@@ -56,6 +56,72 @@ a {
     -webkit-transition:all .25s ease-in-out
 }
 
+/************ BUTTONS ******************/
+
+
+/* CSS */
+.button-2{
+  appearance: none;
+  background-color: #F8F8F8;
+  border: 1px solid rgba(27, 31, 35, 0.08);
+  border-radius: 2px;
+  box-sizing: border-box;
+  color: #3D3D3D;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Open Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin-bottom: 1em;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+  letter-spacing: .1px;
+}
+
+.button-2:hover {
+  background-color: transparent;
+  border-color: #1173A8 ;
+  text-decoration: none;
+  color: #1173A8;
+  transition-duration: 0.2s;
+
+}
+
+
+.button-2:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  color: #1173A8;
+  transition: none 0s;
+}
+
+.button-2:focus {
+  outline: 1px transparent;
+  color: #3D3D3D;
+}
+
+.button-2:before {
+  display: none;
+  color: #1173A8;
+}
+
+
+.button-2:-webkit-details-marker {
+  display: none;
+}
+
+
+/*********** END BUTTONS ***********/
+
 .inline-block {
     display:inline-block
 }
@@ -190,8 +256,8 @@ width: 100%;
 }
 
 .navbar-brand:hover {
-    color:#1eadef;
-    border-color:#1eadef
+    color:#1173A8;
+    border-color:#1173A8
 }
 
 .social li a {
