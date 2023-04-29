@@ -1,5 +1,5 @@
 <svg width="1522" height="797" viewBox="0 0 1522 797" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 4.00001C0 1.79087 1.79086 0 4 0H1518C1520.21 0 1522 1.79086 1522 4V793C1522 795.209 1520.21 797 1518 797H4.00004C1.7909 797 0 795.209 0 793V4.00001Z" fill="#F8EBEC"/>
+<path d="M0 4.00001C0 1.79087 1.79086 0 4 0H1518C1520.21 0 1522 1.79086 1522 4V793C1522 795.209 1520.21 797 1518 797H4.00004C1.7909 797 0 795.209 0 793V4.00001Z" fill="#D9D9D9"/>
 <g filter="url(#filter0_d_783_529775)">
 <g clip-path="url(#clip0_783_529775)">
 <g clip-path="url(#clip1_783_529775)">
@@ -108,7 +108,7 @@
 <feOffset dy="8"/>
 <feGaussianBlur stdDeviation="2"/>
 <feComposite in2="hardAlpha" operator="out"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.7125 0 0 0 0 0.270156 0 0 0 0 0.480796 0 0 0 0.08 0"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.475 0 0 0 0 0.421562 0 0 0 0 0.447009 0 0 0 0.08 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_783_529775"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_783_529775" result="shape"/>
 </filter>
