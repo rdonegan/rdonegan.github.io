@@ -257,8 +257,8 @@ width: 100%;
 }
 
 .navbar-brand:hover {
-    color:#1173A8;
-    border-color:#1173A8
+    color:#333333;
+    border-color:#333333
 }
 
 .social li a {
@@ -277,7 +277,7 @@ width: 100%;
 
 .navbar-nav>li>a:hover{
     background:none;
-    color:#1eadef;
+    color:#333333;
 }
 .navbar-nav>li>a:focus{
     background:none;
